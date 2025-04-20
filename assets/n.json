@@ -1,0 +1,410 @@
+[
+    {
+      "rule_number": 1,
+      "title": {
+        "en": "Identification Plates",
+        "ta": "அடையாளத் தகடுகள்"
+      },
+      "description": {
+        "en": "On every motor vehicle, there shall be fixed and maintained two identification plates.\nNot authorized to alter the shape of plates.\nFine Amount = Rs 1000/=",
+        "ta": "ஒவ்வவொரு மொட்டொர் வொகனத்திலும், இரண்டு அடடயொளத் தகடுகள் வபொருத்தப்பட்டு பரொ ரிக்கப்பட மவண்டும்.\nதகடுகளின் வடிவத்டத ொற்றுவதற்கு அதிகொரம் இல்டை.\nஅபரொதத் வதொடக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 2,
+      "title": {
+        "en": "Contravening Revenue License Provisions",
+        "ta": "வருவாய் உரிம விதிகளை மீறுதல்"
+      },
+      "description": {
+        "en": "Revenue license should be displayed on motor vehicles and produced when required.\nFine Amount = Rs 1000/=",
+        "ta": "வருவாய் உரிமத்ளத மமாட்டார் வாகனங்கைில் காட்சிப்படுத்த மவண்டும், மதளவப்படும்மபாது காண்பிக்க மவண்டும்.\nஅபராதத் பதாளக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 3,
+      "title": {
+        "en": "Prohibition On The Use Of Motor Vehicles Contravening The Provision Of Revenue License",
+        "ta": "வருவாய் உரிம விதியை மீறும் மமாட்டார் வாகனங்கயைப் பைன்படுத்துவயதத் தயட செய்தல்"
+      },
+      "description": {
+        "en": "No person shall possess or use a motor vehicle for which a revenue license is not in force.\nFine Amount = Rs 1000/=",
+        "ta": "வருவாய் உரிமம் நடைமுடையில் இல்லாத மமாட்ைார் வாகனத்டத எந்தவவாரு நபரும் டவத்திருக்கமவா அல்லது பயன்படுத்தமவா கூைாது.\nஅபராதத் வதாடக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 4,
+      "title": {
+        "en": "Driving Emergency Service Vehicle And Public Service Vehicle Without A License",
+        "ta": "அவசர சசவவ வாகனம் மற்றும் ப ாது சசவவ வாகனத்வை உரிமம் இல்லாமல் ஓட்டுைல்"
+      },
+      "description": {
+        "en": "No person shall drive a motor vehicle on a highway unless they hold a valid driving license.\nFine Amount = Rs 1000/=",
+        "ta": "அந்த வகை வாைனங்ைளுக்கு ஏற்ற செல்லுபடியாகும் ஓட்டுநர் உரிமம் இல்லாவிட்டால், எந்தசவாரு நபரும் சநடுஞ்ொகலயில் மமாட்டார் வாைனத்கத ஓட்டக்கூடாது.\nஅபராதத் சதாகை = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 5,
+      "title": {
+        "en": "Driving Special Purpose Vehicle Without Obtaining A License",
+        "ta": "உரிமம் பெறாமல் சிறப்பு ந ாக்க வாகனம் ஓட்டுதல்"
+      },
+      "description": {
+        "en": "Encompasses special purpose vehicles, which may include agricultural tractors, construction machinery.\nFine Amount = Rs 1000/=",
+        "ta": "விவசாய டிராக்டர்கள், கட்டுமான இயந்திரங்கள் அல்லது பிற சிறப்பு வாகனங்கள் உள்ளிட்ட சிறப்பு ந ாக்க வாகனங்களள உள்ளடக்கியது.\nஅபராதத் பதாளக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 6,
+      "title": {
+        "en": "Driving A Loaded Vehicle",
+        "ta": "ஏற்றப்பட்ட வாகனத்தை ஓட்டுைல்"
+      },
+      "description": {
+        "en": "Driving a vehicle loaded with chemicals, hazardous waste without a license.\nFine Amount = Rs 1000/=",
+        "ta": "உரிமம் இல்லாமல் ரசாயனங்கள், அபாயகரமான கழிவுகள் ஏற்றப்பட்ட வாகனத்தை ஓட்டுைல்.\nஅபைாதத் பைாதக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 7,
+      "title": {
+        "en": "Not Having A License To Drive A Specific Class Of Vehicles",
+        "ta": "குறிப்பிட்ட வகை வாைனங்ைகை ஓட்ட உரிமம் இல்லாதது"
+      },
+      "description": {
+        "en": "Motor vehicles shall be deemed to be divided into the following classes.\nFine Amount = Rs 1000/=",
+        "ta": "மோட்டோர் வோகனங்கள் பின்வரும் வகுப்புகளோகப் பிரிக்கப்பட்டதோகக் கருதப்படும்.\nஅபரோதத் சதோதக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 8,
+      "title": {
+        "en": "Failure To Carrying Driving License When Driving",
+        "ta": "வாகனம் ஓட்டும்ப ாது ஓட்டுநர் உரிமம் வவத்திருக்கத் தவறுதல்"
+      },
+      "description": {
+        "en": "No person shall drive a motor vehicle of any class on a highway unless he is the holder of an effective driving license.\nFine Amount = Rs 1000/=",
+        "ta": "அந்த வகுப்பின் மோட்டோர் வோகனங்களுக்கு செல்லுபடியோகும் பயனுள்ள ஓட்டுநர் உரிமம் வவத்திருந்தோல் தவிர.\nஅபரோதத் சதோவக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 9,
+      "title": {
+        "en": "Instructing Without An Instructor's License",
+        "ta": "பயிற்றுவிப்பாளர் உரிமம் இல்லாமல் பயிற்றுவித்தல்"
+      },
+      "description": {
+        "en": "Individuals providing driving instruction must hold a valid instructor's license.\nFine Amount = Rs 2000/=",
+        "ta": "ஓட்டுநர் பயிற்சி அளிக்கும் நபர்கள் சசல்லுபடியாகும் பயிற்றுவிப்பாளர் உரிமத்தை தவத்ைிருக்க வவண்டும்.\nஅபராைத் சைாதக = ரூ. 2000/="
+      },
+      "fine_amount": 2000
+    },
+    {
+      "rule_number": 10,
+      "title": {
+        "en": "Speeding Limits",
+        "ta": "வேக ேரம்புகள்"
+      },
+      "description": {
+        "en": "A motor coach or a lorry having a tear exceeding one tonne shall not be driven.\nFine Amount = Rs 3000/=",
+        "ta": "ஒரு டன்னுக்கு மேல் கிழிந்த மேோட்டோர் மகோச் அல்லது லோரியை ஓட்டக்கூடோது.\nஅபரோதத் நதோயக = ரூ. 3000/="
+      },
+      "fine_amount": 3000
+    },
+    {
+      "rule_number": 11,
+      "title": {
+        "en": "Disobeying Road Rules",
+        "ta": "சாலை விதிகலை மீறுதல்"
+      },
+      "description": {
+        "en": "A motor vehicle meeting or being overtaken by other traffic shall be kept to the left.\nFine amount = Rs. 2000/=",
+        "ta": "ஒரு மமோட்டோர் வோகனம் சந்திக்கும் மோது அல்லது மற்ற வோகனங்களோல் முந்திச் சசல்லப் டும் மோது.\nஅபரோதத் சதோலக = ரூ. 2000/="
+      },
+      "fine_amount": 2000
+    },
+    {
+      "rule_number": 12,
+      "title": {
+        "en": "Activities Obstructing the Control of the Vehicle",
+        "ta": "வாகனக் கட்டுப்பாட்டைத் தடுக்கும் நைவடிக்டககள்"
+      },
+      "description": {
+        "en": "No person shall drive a motor vehicle on a highway when he is in such a position.\nFine Amount = Rs 1000/=",
+        "ta": "வாகனத்தின் முழுக் கட்டுப்பாட்டையும் அல்லது நெடுஞ்சாடலடையும் மாட்ைார் வாகனத்தின் முன்மனாக்கிப் மபாக்குவரத்டதயும்.\nஅபராதத் நதாடக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 13,
+      "title": {
+        "en": "Using Inappropriate Signals when Driving",
+        "ta": "வாகனம் ஓட்டும்ப ாது ப ாருத்தமற்ற சிக்னல்களைப் யன் டுத்துதல்"
+      },
+      "description": {
+        "en": "Drivers are required to use appropriate hand signals or vehicle indicators.\nFine Amount = Rs 1000/=",
+        "ta": "ஓட்டுநர்கள் தங்கள் நநோக்கங்களை மற்ற சோளைப் பயனோைர்களுக்குத் ததரிவிக்க தபோருத்தமோன ளக சமிக்ளைகள்.\nஅபரோதத் ததோளக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 14,
+      "title": {
+        "en": "Reversing a Long Distance",
+        "ta": "நீண்ட தூரம் பின்னோக்கிச் செல்லுதல்"
+      },
+      "description": {
+        "en": "The driver of a motor vehicle shall not reverse the vehicle.\nFine Amount = Rs 1000/=",
+        "ta": "ஒரு மோட்டோர் வோகனத்தின் ஓட்டுநர், அந்த வோகனத்ததத் திருப்புவதற்கு.\nஅபரோதத் சதோதக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 15,
+      "title": {
+        "en": "Improper use of Warning Instruments",
+        "ta": "எச்சரிக்கை ைருவிைளின் முகையற்ை பயன்பாடு"
+      },
+      "description": {
+        "en": "The driver of a motor vehicle on a highway shall give audible and sufficient warning.\nFine Amount = Rs 1000/=",
+        "ta": "நெடுஞ்சாலையில் ஒரு மாட்ைார் வாகனத்தின் ஓட்டுநர், பாதுகாப்பிற்காக.\nஅபராதத் நதாலக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 16,
+      "title": {
+        "en": "Excessive Emission of Smoke",
+        "ta": "அதிகப்படியான புகக வெளியயற்றம்"
+      },
+      "description": {
+        "en": "Prohibition on operating vehicles that emit excessive smoke.\nFine Amount = Rs 1000/=",
+        "ta": "பரிந்துரைக்கப்பட்ட வைம்புகளுக்கு அப்பால் அதிகப்படியான புரக, புரக அல்லது பிற மாசுபடுத்திகரை வவைியிடும் வாகனங்கரை இயக்குவதற்கு தரட.\nஅபைாதத் வதாரக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 17,
+      "title": {
+        "en": "Riding on Running Boards",
+        "ta": "ஓடும் பலகைைளில் சவாரி சசய்தல்"
+      },
+      "description": {
+        "en": "The driver of any motor vehicle shall not permit any person to ride.\nFine Amount = Rs 500/=",
+        "ta": "எந்தவவொரு மொட்டொர் வொகனத்தின் ஓட்டுநர், நடத்துனர், யொரையும் சவொரி வசய்ய அனு திக்கக் கூடொது.\nஅபைொதத் வதொரக = ரூ. 500/="
+      },
+      "fine_amount": 500
+    },
+    {
+      "rule_number": 18,
+      "title": {
+        "en": "Restriction on No of Persons in front Seats of Motor Vehicle",
+        "ta": "மோட்டோர் வோகனத்தின் முன் இருக்கககளில் நபர்களின் எண்ணிக்ககக்கு கட்டுப்போடு"
+      },
+      "description": {
+        "en": "The driver of a hiring car on a highway or the owner or driver of a private car.\nFine Amount = Rs 1000/=",
+        "ta": "நெடுஞ்சாலையில் வாடலைக்கு எடுக்கும் ைாரின் ஓட்டுெர் அல்ைது நெடுஞ்சாலையில் ஒரு தனியார் ைாரின் உரிலையாளர்.\nஅபராதத் நதாலை = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 19,
+      "title": {
+        "en": "Non-use of Seat Belts",
+        "ta": "இருக்கை பெல்ட்ைகைப் ெயன்ெடுத்தாமல் இருத்தல்"
+      },
+      "description": {
+        "en": "Mandatory to use of seat belts by drivers and front-seat passengers.\nFine Amount = Rs 1000/=",
+        "ta": "சிை வாைன வலைைளில் ஓட்டுெர்ைள் ைற்றும் முன் இருக்லை பயணிைள் இருக்லை நபல்ட்ைலளப் பயன்படுத்துவது ைட்டாயைாகும்.\nஅபைாதத் நதாலை = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 20,
+      "title": {
+        "en": "Not wearing Protective Helmets",
+        "ta": "பாதுகாப்பு ஹெல்மெட் அணியாமை"
+      },
+      "description": {
+        "en": "Requires motorcycle riders and pillion passengers to wear protective helmets.\nFine Amount = Rs 1000/=",
+        "ta": "மோட்டார் சைக்கிள் ஓட்டுநர்கள் மற்றும் பயணிகள் பாதுகாப்பு ஹெல்மெட் அணிய வேண்டும்.\nஅபராதத் நதாலை = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 21,
+      "title": {
+        "en": "Prohibition To Distribute Advertisements From A Vehicle In Motion",
+        "ta": "இயங்கும் வாகனத்திலிருந்து விளம்பரங்களள விநியயாகிக்க தளை"
+      },
+      "description": {
+        "en": "The driver of a motor vehicle shall not permit any person to distribute.\nFine Amount = Rs 1000/=",
+        "ta": "ஒரு மோட்டோர் வோகனத்தின் ஓட்டுநர் எந்தவவோரு நபரையும் விநிமோகிக்க அனு திக்கக்கூடோது.\nஅபைோதத் வதோரக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 22,
+      "title": {
+        "en": "Excessive use of noise from a Vehicle",
+        "ta": "ஒரு வாகனத்திலிருந்து அதிகப்படியான சத்தத்ததப் பயன்படுத்துதல்"
+      },
+      "description": {
+        "en": "No whistle or horn, other than a horn sounding a single note, shall be sounded.\nFine Amount = Rs 1000/=",
+        "ta": "நகர்ப்புற எல்லைக்குள் உள்ள எந்தவொரு வநடுஞ்சொலையிலும் உள்ள எந்தவொரு மொட்டொர்ொகனத்திலும்.\nஅபரொதத் வதொலக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 23,
+      "title": {
+        "en": "Failure to Obey Direction and Signals of Police Officers",
+        "ta": "காவல்துறை அதிகாரிகளின் வழிகாட்டுதல் மற்றும் சிக்னல்களுக்குக் கீழ்ப்படியத் தவறுதல்"
+      },
+      "description": {
+        "en": "The driver of a motor vehicle shall obey all verbal directions or signals.\nFine Amount = Rs 2000/=",
+        "ta": "ஒரு மோட்டோர் வோகன ஓட்டுநர், தனது கடமமைச் செய்யும்மோது கோவல்துமை அதிகோரிைோல் வழங்கப் டும் அமனத்து வோய்சோழி வழிகோட்டுதல்கள்.\nஅபரோதத் சதோமக = ரூ. 2000/="
+      },
+      "fine_amount": 2000
+    },
+    {
+      "rule_number": 24,
+      "title": {
+        "en": "Non Compliance to Road Signs",
+        "ta": "சாலை அலையாளங்கலள மீறுதல்"
+      },
+      "description": {
+        "en": "The driver of a motor vehicle shall obey all traffic signs or notices.\nFine Amount = Rs 1000/=",
+        "ta": "ஒரு மோட்டோர் வோகனத்தின் ஓட்டுநர், அந்த மோட்டோர் வோகனம் மேர்ந்த வகுப்பு அல்லது விளக்கத்ததச் மேர்ந்த.\nஅபரோதத் பதோதக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 25,
+      "title": {
+        "en": "Failure To Take Precautions When Discharging Fuel Into Tank",
+        "ta": "எரிபொருள் பொட்டியில் எரிபொருளை பெையயற்றும் யொது முன்பெச்சரிக்ளை நடெடிக்ளைைளை எடுக்ைத்ெறுல்"
+      },
+      "description": {
+        "en": "The engine of a motor vehicle shall be stopped and any light other than an electric light.\nFine Amount = Rs 1000/=",
+        "ta": "வாகனத்தின் இயந்திரம் நிறுத்தப்பட வவண்டும், வேலும் வாகனத்தில் உள்ள அல்லது அதன்ேீது உள்ள ேின் விளக்ககத் தவிர.\nஅபராதத் ததாகக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 26,
+      "title": {
+        "en": "Halting or Parking Motor Vehicles on a Road",
+        "ta": "சாலையில் மாட்ைார் வாகனங்கலை நிறுத்துதல்"
+      },
+      "description": {
+        "en": "Where the halting or parking of motor vehicles on any highway or part of a highway is prohibited.\nFine Amount = Rs 1000/=",
+        "ta": "எந்தவொரு வெடுஞ்சொலையிலைொ அல்ைது வெடுஞ்சொலையின் ஒரு பகுதியிலைொ லொட்டொர்ொகனங்கலைெிறுத்து து.\nஅபரொதத் வதொலக = ரூ. 1000/="
+      },
+      "fine_amount": 1000
+    },
+    {
+      "rule_number": 27,
+      "title": {
+        "en": "Non use of Precautions when Halting or left unattended or Disabled in a Road",
+        "ta": "சாலையில் நிறுத்தும்பபாது அல்ைது கவனிக்கப்படாமல் விடப்படும்பபாது அல்ைது முடக்கப்படும்பபாது முன்னனச்சரிக்லக நடவடிக்லககலைப் பயன்படுத்தாலம"
+      },
+      "description": {
+        "en": "The driver of a motor vehicle shall, whenever the vehicle is halted or parked on a highway.\nFine Amount = Rs 2000/=",
+        "ta": "ஒரு மோட்டோர் வோகனத்தின் ஓட்டுநர், வோகனம் நநடுஞ்சோலையில் நிறுத்தப்படும்மபோமதோ அல்ைது நிறுத்தப்படும்மபோமதோ.\nஅபைோதத் நதோலக = ரூ. 2000/="
+      },
+      "fine_amount": 2000
+    },
+    {
+      "rule_number": 28,
+      "title": {
+        "en": "Excessive carriage of persons or load of goods in Motor vehicles",
+        "ta": "மோட்டோர் வோகனங்களில் அதிகப்படியோன நபர்களள அல்லது சரக்குகளள ஏற்றிச் சசல்வது"
+      },
+      "description": {
+        "en": "Where the number of persons found at any time in a private car on a highway exceeds eight.\nFine Amount = Rs 500/=",
+        "ta": "ஒரு நெடுஞ்சாலையில் ஒரு தனியார் காரில் எந்த நெரத்திலும் எட்டுெபர்கலை (அதன் ஓட்டுெர் உட்பட) தாண்டினால்.\nஅபராதத் நதாலக = ரூ. 500/="
+      },
+      "fine_amount": 500
+    },
+    {
+      "rule_number": 29,
+      "title": {
+        "en": "Carriage Of Passengers In Excess In Buses",
+        "ta": "பேருந்துகளில் அதிகமாக ேயணிகளள ஏற்றிச் செல்வது"
+      },
+      "description": {
+        "en": "Where the number of passengers in an omnibus on a highway exceeds the maximum number.\nFine Amount = Rs 500/=",
+        "ta": "ஒரு நெடுஞ்சாலையில் உள்ள ஒரு ஆம்னிபஸ்ஸில் பயணிகளின் எண்ணிக்லக அந்த ஆம்னிபஸ்ஸின் வருவாய் உரிமத்தில்.\nஅபராதத் சதாளக = ரூ. 500/="
+      },
+      "fine_amount": 500
+    },
+    {
+      "rule_number": 30,
+      "title": {
+        "en": "Excessive Carriage of load of goods on Lorry or Motor Tricycle",
+        "ta": "லாரி அல்லது மாட்ைார் முச்சக்கர வண்டியில் அதிகப்படியான சரக்குகளை ஏற்றிச் சசல்வது"
+      },
+      "description": {
+        "en": "Where the weight of goods found at any time on a lorry on a highway exceeds.\nFine Amount = Rs 500/=",
+        "ta": "நெடுஞ்சாலையில் உள்ள ஒருைாரியில் எந்த நெரத்திலும் காணப்படும் நபாருட்களின் எலை.\nஅபராதத் நதாலக = ரூ. 500/="
+      },
+      "fine_amount": 500
+    },
+    {
+        "rule_number": 31,
+        "title": {
+          "en": "Excessive carriage of persons in a Lorry",
+          "ta": "ஒரு லாரியில் அதிகப்படியான நபர்களை ஏற்றிச் செல்லுதல்"
+        },
+        "description": {
+          "en": "Not more than 3 persons shall be carried on a lorry in addition to the driver thereof.\nFine Amount = Rs 1000/=",
+          "ta": "ஒரு லாரியில் அதன் ஓட்டுநரை தவிை 3 பேருக்கு பேல் ஏற்றிச் செல்லக்கூடாது.\nஅபைாதத் சதாரை = ரூ. 1000/="
+        },
+        "fine_amount": 1000
+      },
+      {
+        "rule_number": 32,
+        "title": {
+          "en": "Violation of Regulations on Motor Vehicles",
+          "ta": "மமோட்டோர் வோகனங்கள் மீதோன விதிமுறைகறை மீறுதல்"
+        },
+        "description": {
+          "en": "Covers general violations of motor vehicle regulations.\nFine amount = Rs. 1000/=",
+          "ta": "மோட்டோர் வோகன விதிமுறைகளின் போதுவோன ீைல்கறள உள்ளடக்கியது.\nஅபரோதத் பதோறக = ரூ. 1000/="
+        },
+        "fine_amount": 1000
+      },
+      {
+        "rule_number": 33,
+        "title": {
+          "en": "Failure to carry the Emission Certificate or the Fitness Certificate",
+          "ta": "உமிழ்வுச் சான்றிதழ் அல்லது உடற்தகுதிச் சான்றிதழை எடுத்துச் சசல்லத் தவறுதல்"
+        },
+        "description": {
+          "en": "Mandatory to obtain and carry valid Emission Certificates and Certificates of Fitness.\nFine Amount = Rs 500/=",
+          "ta": "செல்லுபடியாகும் உமிழ்வுச்ொன்றிதழ்கள் மற்றும் உடற்தகுதிச்ொன்றிதழ்களைப் சபறுவதும் எடுத்துச் செல்வதும் கட்டாயமாகும்.\nஅபராதத் சதாளக = ரூ. 500/="
+        },
+        "fine_amount": 500
+      },
+      {
+        "rule_number": 34,
+        "title": {
+          "en": "Driving After The Consumption Of Alcohol Or Drugs",
+          "ta": "மது அல்லது பபோதைப்பபோருள் உட்பகோண்ட பிறகு வோகனம் ஓட்டுைல்"
+        },
+        "description": {
+          "en": "No person shall drive any omnibus or hiring car,after he has consumed alcohol.\nFine Amount = Rs 25000/=",
+          "ta": "மது அல்லது ஏதேனும் தபோதேப்பபோருள் உட்போண்ட பிறகு, எந்ேபோரு நபரும் பநடுஞ்சோதலயில்.\nஅபரோேத் பேோத = ரூ. 25000/="
+        },
+        "fine_amount": 25000
+    }
+]

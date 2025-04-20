@@ -1,0 +1,413 @@
+[
+  {
+    "rule_number": 1,
+    "title": {
+      "en": "Identification Plates",
+      "si": "හඳුනාගැනීමේ තහඩු",
+      "ta": "அடையாளத் தகடுகள்"
+    },
+    "description": {
+      "en": "- Every motor vehicle must have **two identification plates** fixed and maintained, each displaying the vehicle's distinctive number.\n- Altering the shape of plates is **not authorized**.\n- Plates must comply with standards for **color, size, spacing, and margins** as prescribed.\n- No part of the plate shall be **obscured** in any manner.\n- Plates must be fixed **upright** with letters and figures facing upwards.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- ஒவ்வொரு மொட்டொர் வொகனத்திலும், **இரண்டு அடையாளத் தகடுகள்** வொகனத்தின் தனித்துவமொன எண்ணை வெளிப்படுத்தி, பொருத்தப்பட்டு பரொமரிக்கப்பட வேண்டும்.\n- தகடுகளின் வடிவத்தை **மொறுவதற்கு அதிகொரம் இல்லை**.\n- தகடுகள் **நிறம், அளவு, இடைவெளி மற்றும் விளிம்புகளுக்கு** பரிந்துரைக்கப்பட்ட தரநிலைகளுக்கு இணங்க வேண்டும்.\n- தகட்டின் எந்தப் பகுதியும் **மறைக்கப்படக் கூடாது**.\n- தகடுகள் **நிமிர்ந்த நிலையில்**, எழுத்துக்கள் மற்றும் எண்கள் மேல்நோக்கி இருக்க வேண்டும்.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 2,
+    "title": {
+      "en": "Contravening Revenue License Provisions",
+      "si": "ආදායම් බලපත්‍රයක් නොමැති වීම",
+      "ta": "வருவாய் உரிம விதிகளை மீறுதல்"
+    },
+    "description": {
+      "en": "- The **revenue license** must be displayed on motor vehicles in a **visible location**, typically on the windshield or designated area.\n- Vehicle owners or drivers must **present the license** when requested by authorities like traffic police or transport officials.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- **வருவாய் உரிமம்** மொட்டொர் வொகனங்களில் **புலப்படும் இடத்தில்**, பொதுவாக கண்ணாடியில் அல்லது நியமிக்கப்பட்ட பகுதியில் காட்சிப்படுத்தப்பட வேண்டும்.\n- வொகன உரிமையாளர்கள் அல்லது ஓட்டுநர்கள், போக்குவரத்து காவல்துறை அல்லது போக்குவரத்து அதிகாரிகள் கேட்கும்போது உரிமத்தை **சமர்ப்பிக்க வேண்டும்**.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 3,
+    "title": {
+      "en": "Prohibition On The Use Of Motor Vehicles Contravening The Provision Of Revenue License",
+      "si": "ආදායම් බලපත්‍ර විධිවිධාන උල්ලංඝනය කිරීම",
+      "ta": "வருவாய் உரிம விதியை மீறும் மொட்டொர் வொகனங்களைப் பயன்படுத்துவதற்கு தடை"
+    },
+    "description": {
+      "en": "- No person shall **possess or use** a motor vehicle without a **valid revenue license**.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- எந்தவொரு நபரும் **செல்லுபடியாகும் வருவாய் உரிமம்** இல்லாத மொட்டொர் வொகனத்தை **வைத்திருக்கவோ அல்லது பயன்படுத்தவோ** கூடாது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 4,
+    "title": {
+      "en": "Driving Emergency Service Vehicle And Public Service Vehicle Without A License",
+      "ta": "அவசர சேவை வொகனம் மற்றும் பொது சேவை வொகனத்தை உரிமம் இல்லாமல் ஓட்டுதல்"
+    },
+    "description": {
+      "en": "- No person shall drive a motor vehicle on a highway without a **valid driving license** appropriate for that vehicle class.\n- This includes **emergency service vehicles** (e.g., ambulances, fire trucks) and **public service vehicles** (e.g., buses, taxis).\n\n**Fine Amount: Rs 1000**",
+      "ta": "- செல்லுபடியாகும் **ஓட்டுநர் உரிமம்** இல்லாமல் எந்தவொரு நபரும் நெடுஞ்சாலையில் மொட்டொர் வொகனத்தை **ஓட்டக் கூடாது**.\n- இதில் **அவசர சேவை வொகனங்கள்** (எ.கா., ஆம்புலன்ஸ், தீயணைப்பு வொகனங்கள்) மற்றும் **பொது சேவை வொகனங்கள்** (எ.கா., பேருந்துகள், டாக்ஸிகள்) அடங்கும்.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 5,
+    "title": {
+      "en": "Driving Special Purpose Vehicle Without Obtaining A License",
+      "ta": "உரிமம் பெறாமல் சிறப்பு நோக்க வொகனம் ஓட்டுதல்"
+    },
+    "description": {
+      "en": "- Drivers of **special purpose vehicles** (e.g., agricultural tractors, construction machinery) must hold a **valid license** with specific endorsements.\n- Operating these vehicles on public roads without proper licensing is prohibited.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- **சிறப்பு நோக்க வொகனங்கள்** (எ.கா., விவசாய டிராக்டர்கள், கட்டுமான இயந்திரங்கள்) ஓட்டுநர்கள் குறிப்பிட்ட ஒப்புதல்களுடன் **செல்லுபடியாகும் உரிமம்** வைத்திருக்க வேண்டும்.\n- பொது சாலைகளில் உரிய உரிமம் இல்லாமல் இவற்றை இயக்குவது தடைசெய்யப்பட்டுள்ளது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 6,
+    "title": {
+      "en": "Driving A Loaded Vehicle",
+      "ta": "ஏற்றப்பட்ட வொகனத்தை ஓட்டுதல்"
+    },
+    "description": {
+      "en": "- Driving vehicles loaded with **chemicals or hazardous waste** requires a **valid license** suitable for the vehicle class and cargo type.\n- Compliance with **safety regulations** is mandatory for transporting hazardous materials.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- **ரசாயனங்கள் அல்லது அபாயகரமான கழிவுகள்** ஏற்றப்பட்ட வொகனங்களை ஓட்டுவதற்கு வொகன வகுப்பு மற்றும் சரக்கு வகைக்கு ஏற்ற **செல்லுபடியாகும் உரிமம்** தேவை.\n- அபாயகரமான பொருட்களை கொண்டு செல்வதற்கு **பாதுகாப்பு விதிமுறைகளை** கடைப்பிடிப்பது கட்டாயம்.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 7,
+    "title": {
+      "en": "Not Having A License To Drive A Specific Class Of Vehicles",
+      "ta": "குறிப்பிட்ட வகை வொகனங்களை ஓட்ட உரிமம் இல்லாதது"
+    },
+    "description": {
+      "en": "- Motor vehicles are divided into classes: **motor coaches, lorries, hiring cars, steam-driven vehicles, motorcycles, invalid carriages, private cars**.\n- No person shall drive a vehicle without a **valid license** for its specific class.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- மொட்டொர் வொகனங்கள் பின்வரும் வகுப்புகளாகப் பிரிக்கப்பட்டுள்ளன: **மொட்டொர் வண்டிகள், லொரிகள், வாடகை கார்கள், நீராவியால் இயக்கப்படும் வொகனங்கள், மொட்டொர் சைக்கிள்கள், செல்லாத வண்டிகள், தனியார் கார்கள்**.\n- குறிப்பிட்ட வகுப்புக்கு **செல்லுபடியாகும் உரிமம்** இல்லாமல் எந்தவொரு நபரும் வொகனத்தை ஓட்டக் கூடாது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 8,
+    "title": {
+      "en": "Failure To Carrying Driving License When Driving",
+      "ta": "வொகனம் ஓட்டும்போது ஓட்டுநர் உரிமம் வைத்திருக்கத் தவறுதல்"
+    },
+    "description": {
+      "en": "- No person shall drive a motor vehicle without carrying an **effective driving license** valid for that vehicle class.\n- Employing someone to drive without a valid license is also prohibited.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- **செல்லுபடியாகும் ஓட்டுநர் உரிமம்** இல்லாமல் எந்தவொரு நபரும் மொட்டொர் வொகனத்தை ஓட்டக் கூடாது.\n- செல்லுபடியாகும் உரிமம் இல்லாதவரை வொகனம் ஓட்ட பணியமர்த்துவதும் தடைசெய்யப்பட்டுள்ளது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 9,
+    "title": {
+      "en": "Instructing Without An Instructor's License",
+      "ta": "பயிற்றுவிப்பாளர் உரிமம் இல்லாமல் பயிற்றுவித்தல்"
+    },
+    "description": {
+      "en": "- Driving instructors must hold a **valid instructor's license** to ensure they meet required standards.\n- Acting as an instructor without a license is prohibited.\n\n**Fine Amount: Rs 2000**",
+      "ta": "- ஓட்டுநர் பயிற்றுவிப்பாளர்கள் தேவையான தரநிலைகளை பூர்த்தி செய்ய **செல்லுபடியாகும் பயிற்றுவிப்பாளர் உரிமம்** வைத்திருக்க வேண்டும்.\n- உரிமம் இல்லாமல் பயிற்றுவிப்பாளராக செயல்படுவது தடைசெய்யப்பட்டுள்ளது.\n\n**அபராதத் தொகை: ரூ 2000**"
+    },
+    "fine_amount": 2000
+  },
+  {
+    "rule_number": 10,
+    "title": {
+      "en": "Speeding Limits",
+      "ta": "வேக எல்லைகள்"
+    },
+    "description": {
+      "en": "- **Motor coaches or lorries** exceeding one tonne must not be driven:\n  - Faster than **20 mph** in urban areas.\n  - Faster than **25 mph** outside urban areas.\n\n**Fine Amount: Rs 3000**",
+      "ta": "- ஒரு டன்னுக்கு மேல் எடையுள்ள **மொட்டொர் வண்டிகள் அல்லது லொரிகள்**:\n  - நகர்ப்புறங்களில் **மணிக்கு 20 மைல்களுக்கு** மேல் ஓட்டப்படக் கூடாது.\n  - நகர்ப்புறங்களுக்கு வெளியே **மணிக்கு 25 மைல்களுக்கு** மேல் ஓட்டப்படக் கூடாது.\n\n**அபராதத் தொகை: ரூ 3000**"
+    },
+    "fine_amount": 3000
+  },
+  {
+    "rule_number": 11,
+    "title": {
+      "en": "Disobeying Road Rules",
+      "ta": "சாலை விதிகளை மீறுதல்"
+    },
+    "description": {
+      "en": "- Vehicles must **keep left** when meeting or being overtaken by traffic.\n- Allow overtaking vehicles to **pass safely**.\n- Overtaking requires a **clear view** of the road ahead.\n- Overtake on the **right** unless passing a tram or animal on the safer side.\n- Do not obstruct **oncoming traffic** or cross roads unsafely.\n- Yield to traffic on **main roads** at intersections.\n- At unregulated intersections, yield to vehicles from the **right**.\n- Slow down on **narrow roads** for safe passage.\n- Keep **left** when turning unless directed otherwise.\n\n**Fine Amount: Rs 2000**",
+      "ta": "- மற்ற வொகனங்களை சந்திக்கும்போது அல்லது முந்தப்படும்போது வொகனங்கள் **இடது புறத்தில்** இருக்க வேண்டும்.\n- முந்திச் செல்லும் வொகனங்களை **பாதுகாப்பாக கடக்க** அனுமதிக்க வேண்டும்.\n- முந்திச் செல்ல முன்பு சாலையின் **தெளிவான பார்வை** தேவை.\n- டிராம் அல்லது விலங்கை பாதுகாப்பான பக்கத்தில் கடக்காவிட்டால் **வலது புறத்தில்** முந்த வேண்டும்.\n- **எதிர்வரும் மொக்குவரத்தை** தடுக்கக் கூடாது அல்லது சாலைகளை பாதுகாப்பற்ற முறையில் கடக்கக் கூடாது.\n- சந்திப்புகளில் **முக்கிய சாலைகளில்** உள்ள மொக்குவரத்துக்கு முன்னுரிமை அளிக்க வேண்டும்.\n- ஒழுங்குபடுத்தப்படாத சந்திப்புகளில் **வலது புறத்தில்** இருந்து வரும் வொகனங்களுக்கு வழிவிட வேண்டும்.\n- **குறுகிய சாலைகளில்** பாதுகாப்பான கடத்தலுக்கு மெதுவாக செல்ல வேண்டும்.\n- வேறு வழிகாட்டுதல் இல்லாவிட்டால் திரும்பும்போது **இடது புறத்தில்** இருக்க வேண்டும்.\n\n**அபராதத் தொகை: ரூ 2000**"
+    },
+    "fine_amount": 2000
+  },
+  {
+    "rule_number": 12,
+    "title": {
+      "en": "Activities Obstructing the Control of the Vehicle",
+      "ta": "வொகனக் கட்டுப்பாட்டைத் தடுக்கும் நடவடிக்கைகள்"
+    },
+    "description": {
+      "en": "- Drivers must maintain **full control** and an **unobstructed view** of the road and traffic.\n- No person shall sit beside the driver in a way that **obstructs the view** or **hinders control**.\n- No one shall sit or stand on the **right side** (if steered from right) or **left side** (if steered from left) of the driver’s seat.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- ஓட்டுநர்கள் சாலை மற்றும் மொக்குவரத்தின் **முழு கட்டுப்பாடு** மற்றும் **தடையற்ற பார்வையை** பராமரிக்க வேண்டும்.\n- ஓட்டுநருக்கு அருகில் **பார்வையை தடுக்கும்** அல்லது **கட்டுப்பாட்டை தடுக்கும்** வகையில் யாரும் அமரக் கூடாது.\n- வொகனம் வலது புறத்தில் இருந்து இயக்கப்பட்டால் **வலது பக்கத்தில்** அல்லது இடது புறத்தில் இருந்து இயக்கப்பட்டால் **இடது பக்கத்தில்** யாரும் அமரவோ நிற்கவோ கூடாது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 13,
+    "title": {
+      "en": "Using Inappropriate Signals when Driving",
+      "ta": "வொகனம் ஓட்டும்போது பொருத்தமற்ற சிக்னல்களைப் பயன்படுத்துதல்"
+    },
+    "description": {
+      "en": "- Drivers must use **appropriate hand signals or indicators** to communicate intentions.\n- This ensures **accident prevention** and **smooth traffic flow**.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- ஓட்டுநர்கள் தங்கள் நோக்கங்களை தெரிவிக்க **பொருத்தமான கை சமிக்ஞைகள் அல்லது குறிகாட்டிகளை** பயன்படுத்த வேண்டும்.\n- இது **விபத்து தடுப்பு** மற்றும் **சீரான மொக்குவரத்து ஓட்டத்தை** உறுதி செய்கிறது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 14,
+    "title": {
+      "en": "Reversing a Long Distance",
+      "ta": "நீண்ட தூரம் பின்னோக்கிச் செல்லுதல்"
+    },
+    "description": {
+      "en": "- Drivers shall not reverse a vehicle for a **longer distance** than necessary for turning or other reasonable purposes.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- திருப்புவதற்கு அல்லது மற்ற நியாயமான நோக்கங்களுக்கு தேவையானதை விட **நீண்ட தூரம்** பின்னோக்கி செல்ல ஓட்டுநர்கள் அனுமதிக்கக் கூடாது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 15,
+    "title": {
+      "en": "Improper use of Warning Instruments",
+      "ta": "எச்சரிக்கை கருவிகளின் முறையற்ற பயன்பாடு"
+    },
+    "description": {
+      "en": "- Drivers must sound an **efficient warning instrument** when necessary for safety.\n- Stationary vehicles must not use warning instruments except to **prevent accidents** or ensure **safety**.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- பாதுகாப்பிற்கு தேவைப்படும்போது ஓட்டுநர்கள் **திறமையான எச்சரிக்கை கருவியை** ஒலிக்க வேண்டும்.\n- நிலையான வொகனங்கள் **விபத்து தடுப்பு** அல்லது **பாதுகாப்பு உறுதி** செய்யும் நோக்கத்தைத் தவிர எச்சரிக்கை கருவிகளை பயன்படுத்தக் கூடாது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 16,
+    "title": {
+      "en": "Excessive Emission of Smoke",
+      "ta": "அதிகப்படியான புகை வெளியேற்றம்"
+    },
+    "description": {
+      "en": "- Vehicles emitting **excessive smoke or pollutants** beyond prescribed limits are prohibited.\n- Violators may receive a **maintenance order**, followed by a **prohibition order** if unresolved.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- பரிந்துரைக்கப்பட்ட எல்லைகளுக்கு அப்பால் **அதிகப்படியான புகை அல்லது மாசுபடுத்திகளை** வெளியிடும் வொகனங்கள் தடைசெய்யப்பட்டுள்ளன.\n- மீறுபவர்களுக்கு **பராமரிப்பு உத்தரவு** வழங்கப்படலாம், தீர்க்கப்படாவிட்டால் **தடை உத்தரவு** பிறப்பிக்கப்படும்.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 17,
+    "title": {
+      "en": "Riding on Running Boards",
+      "ta": "ஓடும் பலகைகளில் சவாரி செய்தல்"
+    },
+    "description": {
+      "en": "- No person shall ride on **running boards, wings, or fenders** except on a **properly constructed seat** or for **vehicle testing** during/after repairs.\n\n**Fine Amount: Rs 500**",
+      "ta": "- **ஓடும் பலகைகள், இறக்கைகள் அல்லது ஃபெண்டர்களில்** சரியாக கட்டப்பட்ட இருக்கையைத் தவிர அல்லது பழுதுபார்க்கும் போது/பிறகு **வொகன சோதனைக்காக** தவிர யாரும் சவாரி செய்யக் கூடாது.\n\n**அபராதத் தொகை: ரூ 500**"
+    },
+    "fine_amount": 500
+  },
+  {
+    "rule_number": 18,
+    "title": {
+      "en": "Restriction on Number of Persons in Front Seats of Motor Vehicle",
+      "ta": "மொட்டொர் வொகனத்தின் முன் இருக்கைகளில் நபர்களின் எண்ணிக்கைக்கு கட்டுப்பாடு"
+    },
+    "description": {
+      "en": "- **Hiring or private cars** must not have more than **two persons** (besides the driver) in the front seat.\n- Motorcycles without sidecars can carry only **one person**, seated securely behind the driver.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- **வாடகை அல்லது தனியார் கார்களில்** ஓட்டுநரைத் தவிர **இரண்டு பேருக்கு மேல்** முன் இருக்கையில் இருக்கக் கூடாது.\n- சைட்கார் இல்லாத மொட்டொர் சைக்கிள்கள் **ஒரு நபரை** மட்டுமே, ஓட்டுநருக்கு பின்னால் பாதுகாப்பாக அமர்ந்து கொண்டு செல்ல முடியும்.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 19,
+    "title": {
+      "en": "Non-use of Seat Belts",
+      "ta": "இருக்கை பெல்ட்களைப் பயன்படுத்தாமல் இருத்தல்"
+    },
+    "description": {
+      "en": "- **Hiring or private cars** must not have more than **two persons** (besides the driver) in the front seat.\n- **Seat belts** are mandatory for drivers and front-seat passengers in certain vehicle categories.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- **வாடகை அல்லது தனியார் கார்களில்** ஓட்டுநரைத் தவிர **இரண்டு பேருக்கு மேல்** முன் இருக்கையில் இருக்கக் கூடாது.\n- சில வொகன வகைகளில் ஓட்டுநர்கள் மற்றும் முன் இருக்கை பயணிகளுக்கு **இருக்கை பெல்ட்கள்** கட்டாயம்.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 20,
+    "title": {
+      "en": "Not Wearing Protective Helmets",
+      "ta": "பாதுகாப்பு தலைக்கவசங்களை அணியாதது"
+    },
+    "description": {
+      "en": "- **Motorcycle riders and pillion passengers** must wear **protective helmets** meeting approved standards.\n- Regulations specify permissible helmet types to reduce **head injuries**.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- **மொட்டொர் சைக்கிள் ஓட்டுநர்கள் மற்றும் பின்னால் அமர்ந்தவர்கள்** அங்கீகரிக்கப்பட்ட தரநிலைகளை பூர்த்தி செய்யும் **பாதுகா�ப்பு தலைக்கவசங்களை** அணிய வேண்டும்.\n- **தலை காயங்களை** குறைக்க அனுமதிக்கப்பட்ட தலைக்கவச வகைகளை விதிமுறைகள் குறிப்பிடுகின்றன.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 21,
+    "title": {
+      "en": "Prohibition To Distribute Advertisements From A Vehicle In Motion",
+      "ta": "இயங்கும் வொகனத்திலிருந்து விளம்பரங்களை விநியோகிக்க தடை"
+    },
+    "description": {
+      "en": "- Drivers must not allow anyone to distribute **advertisements, leaflets, or handbills** from a moving vehicle.\n- No person in the vehicle shall distribute such materials while it is in motion.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- ஓட்டுநர்கள் இயங்கும் வொகனத்திலிருந்து **விளம்பரங்கள், துண்டுப்பிரசுரங்கள் அல்லது கையேடுகளை** விநியோகிக்க யாரையும் அனுமதிக்கக் கூடாது.\n- வொகனத்தில் இருப்பவர்கள் இயக்கத்தில் இருக்கும்போது அத்தகைய பொருட்களை விநியோகிக்கக் கூடாது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 22,
+    "title": {
+      "en": "Excessive Use of Noise from a Vehicle",
+      "ta": "ஒரு வொகனத்திலிருந்து அதிகப்படியான சத்தத்தைப் பயன்படுத்துதல்"
+    },
+    "description": {
+      "en": "- Within urban areas, only a **single-note horn** may be used; other whistles or horns are prohibited.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- நகர்ப்புறங்களுக்குள், **ஒற்றை ஒலி ஹார்ன்** மட்டுமே பயன்படுத்தப்படலாம்; மற்ற விசில் அல்லது ஹார்ன்கள் தடைசெய்யப்பட்டுள்ளன.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 23,
+    "title": {
+      "en": "Failure to Obey Direction and Signals of Police Officers",
+      "ta": "காவல்துறை அதிகாரிகளின் வழிகாட்டுதல் மற்றும் சிக்னல்களுக்குக் கீழ்ப்படியத் தவறுதல்"
+    },
+    "description": {
+      "en": "- Drivers must obey **police officers' verbal directions or signals** to stop, reverse, slow down, turn, or follow traffic lines.\n- Stop immediately when requested by troops or animal handlers, keeping the vehicle stationary as needed.\n\n**Fine Amount: Rs 2000**",
+      "ta": "- ஓட்டுநர்கள் **காவல்துறை அதிகாரிகளின் வாய்மொழி வழிகாட்டுதல்கள் அல்லது சமிக்ஞைகளுக்கு** கீழ்ப்படிய வேண்டும், இதில் நிறுத்துதல், பின்னோக்கி செல்லுதல், மெதுவாக்குதல், திருப்புதல் அல்லது மொக்குவரத்து வரிசைகளை பின்பற்றுதல் அடங்கும்.\n- படைகள் அல்லது விலங்கு கையாளுபவர்கள் கோரும்போது உடனடியாக நிறுத்தி, தேவையான அளவு வொகனத்தை நிலையாக வைத்திருக்க வேண்டும்.\n\n**அபராதத் தொகை: ரூ 2000**"
+    },
+    "fine_amount": 2000
+  },
+  {
+    "rule_number": 24,
+    "title": {
+      "en": "Non Compliance to Road Signs",
+      "ta": "சாலை அடையாளங்களை மீறுதல்"
+    },
+    "description": {
+      "en": "- Drivers must obey **all traffic signs or notices** applicable to their vehicle class.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- ஓட்டுநர்கள் தங்கள் வொகன வகுப்புக்கு பொருந்தும் **அனைத்து மொக்குவரத்து அடையாளங்கள் அல்லது அறிவிப்புகளுக்கு** கீழ்ப்படிய வேண்டும்.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 25,
+    "title": {
+      "en": "Failure To Take Precautions When Discharging Fuel Into Tank",
+      "ta": "எரிபொருள் தொட்டியில் எரிபொருளை வெளியேற்றும்போது முன்பேச்சரிக்கை நடவடிக்கைகளை எடுக்கத் தவறுதல்"
+    },
+    "description": {
+      "en": "- The **engine must be stopped** and non-electric lights extinguished before fueling.\n- No smoking or open flames within **three yards** of the vehicle or fuel pump during fueling.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- எரிபொருள் நிரப்புவதற்கு முன் **இயந்திரம் நிறுத்தப்பட வேண்டும்** மற்றும் மின்சாரமற்ற விளக்குகள் அணைக்கப்பட வேண்டும்.\n- எரிபொருள் நிரப்பும்போது வொகனம் அல்லது எரிபொருள் பம்பிலிருந்து **மூன்று கஜங்கள்** தொலைவில் புகைபிடித்தல் அல்லது திறந்த தீப்பிழம்புகள் இருக்கக் கூடாது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 26,
+    "title": {
+      "en": "Halting or Parking Motor Vehicles on a Road",
+      "ta": "சாலையில் மொட்டொர் வொகனங்களை நிறுத்துதல்"
+    },
+    "description": {
+      "en": "- Vehicles must not be parked where **prohibited by signs** except for necessary durations.\n- Parking must not **obstruct traffic**.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- **அடையாளங்களால் தடைசெய்யப்பட்ட இடங்களில்** தேவையான கால அளவைத் தவிர வொகனங்களை நிறுத்தக் கூடாது.\n- நிறுத்தும்போது **மொக்குவரத்தை தடுக்கக்** கூடாது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 27,
+    "title": {
+      "en": "Non use of Precautions when Halting or Left Unattended or Disabled in a Road",
+      "ta": "சாலையில் நிறுத்தும்போது அல்லது கவனிக்கப்படாமல் விடப்படும்போது அல்லது முடக்கப்படும்போது முன்னெச்சரிக்கை நடவடிக்கைகளைப் பயன்படுத்தாமல் இருத்தல்"
+    },
+    "description": {
+      "en": "- Parked vehicles must be placed **near the road’s edge** or as indicated by signs or police.\n- Unattended vehicles must have the **engine stopped** and precautions taken to prevent movement.\n- Disabled vehicles must have **lamps** on front and rear to indicate position.\n\n**Fine Amount: Rs 2000**",
+      "ta": "- நிறுத்தப்பட்ட வொகனங்கள் **சாலையின் விளிம்புக்கு அருகில்** அல்லது அடையாளங்கள் அல்லது காவல்துறையால் குறிப்பிடப்பட்டபடி வைக்கப்பட வேண்டும்.\n- கவனிக்கப்படாத வொகனங்களில் **இயந்திரம் நிறுத்தப்பட வேண்டும்** மற்றும் நகர்வதைத் தடுக்க முன்னெச்சரிக்கைகள் எடுக்கப்பட வேண்டும்.\n- முடக்கப்பட்ட வொகனங்களில் **முன் மற்றும் பின்புறத்தில் விளக்குகள்** இருக்க வேண்டும்.\n\n**அபராதத் தொகை: ரூ 2000**"
+    },
+    "fine_amount": 2000
+  },
+  {
+    "rule_number": 28,
+    "title": {
+      "en": "Excessive Carriage of Persons or Load of Goods in Motor Vehicles",
+      "ta": "மொட்டொர் வொகனங்களில் அதிகப்படியான நபர்களை அல்லது சரக்குகளை ஏற்றிச் செல்வது"
+    },
+    "description": {
+      "en": "- **Private cars** must not carry more than **eight persons** (including driver).\n- **Private coaches** must not exceed the licensed number of passengers or carry unauthorized goods.\n\n**Fine Amount: Rs 500**",
+      "ta": "- **தனியார் கார்கள்** ஓட்டுநர் உட்பட **எட்டு பேருக்கு மேல்** கொண்டு செல்லக் கூடாது.\n- **தனியார் வண்டிகள்** உரிமத்தில் குறிப்பிடப்பட்ட பயணிகளின் எண்ணிக்கையை மீறவோ அல்லது அனுமதிக்கப்படாத பொருட்களை கொண்டு செல்லவோ கூடாது.\n\n**அபராதத் தொகை: ரூ 500**"
+    },
+    "fine_amount": 500
+  },
+  {
+    "rule_number": 29,
+    "title": {
+      "en": "Carriage of Passengers in Excess in Buses",
+      "ta": "பேருந்துகளில் அதிகமாக பயணிகளை ஏற்றிச் செல்வது"
+    },
+    "description": {
+      "en": "- **Buses** must not carry more passengers than specified in the **revenue license**.\n- Carrying unauthorized goods (beyond personal luggage) is prohibited.\n\n**Fine Amount: Rs 500**",
+      "ta": "- **பேருந்துகள்** வருவாய் உரிமத்தில் குறிப்பிடப்பட்ட பயணிகளின் எண்ணிக்கையை **மீறக் கூடாது**.\n- தனிப்பட்ட சாமான்களைத் தவிர **அனுமதிக்கப்படாத பொருட்களை** கொண்டு செல்வது தடைசெய்யப்பட்டுள்ளது.\n\n**அபராதத் தொகை: ரூ 500**"
+    },
+    "fine_amount": 500
+  },
+  {
+    "rule_number": 30,
+    "title": {
+      "en": "Excessive Carriage of Load of Goods on Lorry or Motor Tricycle",
+      "ta": "லொரி அல்லது மொட்டொர் முச்சக்கர வண்டியில் அதிகப்படியான சரக்குகளை ஏற்றிச் செல்வது"
+    },
+    "description": {
+      "en": "- **Lorries** must not carry goods exceeding the **maximum load** specified in the revenue license.\n- Improper load distribution causing danger is prohibited.\n\n**Fine Amount: Rs 500**",
+      "ta": "- **லொரிகள்** வருவாய் உரிமத்தில் குறிப்பிடப்பட்ட **அதிகபட்ச சுமையை** மீறி பொருட்களை கொண்டு செல்லக் கூடாது.\n- ஆபத்தை ஏற்படுத்தும் வகையில் **சுமை விநியோகம்** செய்வது தடைசெய்யப்பட்டுள்ளது.\n\n**அபராதத் தொகை: ரூ 500**"
+    },
+    "fine_amount": 500
+  },
+  {
+    "rule_number": 31,
+    "title": {
+      "en": "Excessive Carriage of Persons in a Lorry",
+      "ta": "ஒரு லொரியில் அதிகப்படியான நபர்களை ஏற்றிச் செல்லுதல்"
+    },
+    "description": {
+      "en": "- **Lorries** may carry only up to **three persons** besides the driver, limited to the owner, hirer, or their servant/agent.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- **லொரிகள்** ஓட்டுநரைத் தவிர **மூன்று பேர் வரை** மட்டுமே கொண்டு செல்லலாம், இது உரிமையாளர், வாடகைக்கு எடுப்பவர் அல்லது அவர்களின் பணியாளர்/முகவருக்கு மட்டுமே.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 32,
+    "title": {
+      "en": "Violation of Regulations on Motor Vehicles",
+      "ta": "மொட்டொர் வொகனங்கள் மீதான விதிமுறைகளை மீறுதல்"
+    },
+    "description": {
+      "en": "- Covers violations like **unauthorized vehicle modifications**, failure to meet **safety standards**, and other breaches of the Motor Traffic Act.\n\n**Fine Amount: Rs 1000**",
+      "ta": "- **அங்கீகரிக்கப்படாத வொகன மாற்றங்கள்**, **பாதுகாப்பு தரநிலைகளை** பின்பற்றத் தவறுதல் மற்றும் மொட்டொர் மொக்குவரத்து சட்டத்தின் பிற மீறல்கள் உள்ளிட்டவற்றை உள்ளடக்கியது.\n\n**அபராதத் தொகை: ரூ 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 33,
+    "title": {
+      "en": "Failure to Carry the Emission Certificate or the Fitness Certificate",
+      "ta": "உமிழ்வுச் சான்றிதழ் அல்லது உடற்தகுதிச் சான்றிதழை எடுத்துச் செல்லத் தவறுதல்"
+    },
+    "description": {
+      "en": "- Vehicles must carry **valid Emission and Fitness Certificates** to confirm compliance with **environmental and safety standards**.\n- Failure to produce these when requested is an offense.\n\n**Fine Amount: Rs 500**",
+      "ta": "- வொகனங்கள் **சுற்றுச்சூழல் மற்றும் பாதுகாப்பு தரநிலைகளுக்கு** இணங்குவதை உறுதிப்படுத்த **செல்லுபடியாகும் உமிழ்வு மற்றும் உடற்தகுதி சான்றிதழ்களை** கொண்டு செல்ல வேண்டும்.\n- கோரப்படும்போது இவற்றை காண்பிக்கத் தவறுவது குற்றமாகும்.\n\n**அபராதத் தொகை: ரூ 500**"
+    },
+    "fine_amount": 500
+  },
+  {
+    "rule_number": 34,
+    "title": {
+      "en": "Driving After The Consumption Of Alcohol Or Drugs",
+      "ta": "மது அல்லது போதைப்பொருள் உட்கொண்ட பிறகு வொகனம் ஓட்டுதல்"
+    },
+    "description": {
+      "en": "- No person shall drive **omnibuses, hiring cars, or vehicles for hire** after consuming **alcohol or drugs**.\n- Causing **death or injury** due to driving under the influence is a serious offense.\n\n**Fine Amount: Rs 25000**",
+      "ta": "- **மது அல்லது போதைப்பொருள்** உட்கொண்ட பிறகு எந்தவொரு நபரும் **ஆம்னிபஸ்கள், வாடகை கார்கள் அல்லது கட்டணத்திற்கு பயணிகளை ஏற்றிச் செல்லும் வொகனங்களை** ஓட்டக் கூடாது.\n- செல்வாக்கின் கீழ் ஓட்டுவதால் **மரணம் அல்லது காயம்** ஏற்படுத்துவது தீவிர குற்றமாகும்.\n\n**அபராதத் தொகை: ரூ 25000**"
+    },
+    "fine_amount": 25000
+  }
+]
