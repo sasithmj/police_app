@@ -185,7 +185,7 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
 
   void _rewind() {
     if (_position.inSeconds >= 10) {
-      _audioPlayer.seek(_position - Duration(seconds: 10));
+      _audioPlayer.seek(_position - const Duration(seconds: 10));
     } else {
       _audioPlayer.seek(Duration.zero);
     }
@@ -193,7 +193,7 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
 
   void _forward() {
     if (_duration.inSeconds - _position.inSeconds > 10) {
-      _audioPlayer.seek(_position + Duration(seconds: 10));
+      _audioPlayer.seek(_position + const Duration(seconds: 10));
     } else {
       _audioPlayer.seek(_duration);
     }
@@ -227,7 +227,7 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
   @override
   Widget build(BuildContext context) {
     if (_isLoading) {
-      return Center(
+      return const Center(
         child: CircularProgressIndicator(),
       );
     }
@@ -260,7 +260,7 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
                   });
                   _loadAudioFiles();
                 },
-                child: Text('Retry'),
+                child: const Text('Retry'),
               ),
             ],
           ),
@@ -311,7 +311,7 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
                     'Listen to explanation for Rule ${widget.ruleNumber}',
                     style: Theme.of(context).textTheme.titleMedium,
                   ),
-                  SizedBox(height: 8),
+                  const SizedBox(height: 8),
                   Row(
                     children: [
                       Expanded(
@@ -341,7 +341,7 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
                         ),
                     ],
                   ),
-                  SizedBox(height: 16),
+                  const SizedBox(height: 16),
                   Row(
                     children: [
                       Text(_formatDuration(_position)),
@@ -363,11 +363,11 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       IconButton(
-                        icon: Icon(Icons.replay_10),
+                        icon: const Icon(Icons.replay_10),
                         onPressed: _rewind,
                         color: Theme.of(context).colorScheme.secondary,
                       ),
-                      SizedBox(width: 16),
+                      const SizedBox(width: 16),
                       FloatingActionButton(
                         onPressed: _togglePlay,
                         mini: false,
@@ -375,9 +375,9 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
                           _isPlaying ? Icons.pause : Icons.play_arrow,
                         ),
                       ),
-                      SizedBox(width: 16),
+                      const SizedBox(width: 16),
                       IconButton(
-                        icon: Icon(Icons.forward_10),
+                        icon: const Icon(Icons.forward_10),
                         onPressed: _forward,
                         color: Theme.of(context).colorScheme.secondary,
                       ),
@@ -390,15 +390,15 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
 
         // Additional audio files section
         if (_audioFiles.length > 1) ...[
-          SizedBox(height: 24),
+          const SizedBox(height: 24),
           Text(
             'Additional Audio Files',
             style: Theme.of(context).textTheme.titleLarge,
           ),
-          SizedBox(height: 8),
+          const SizedBox(height: 8),
           ListView.builder(
             shrinkWrap: true,
-            physics: NeverScrollableScrollPhysics(),
+            physics: const NeverScrollableScrollPhysics(),
             itemCount: _audioFiles.length,
             itemBuilder: (context, index) {
               final audioFile = _audioFiles[index];
@@ -408,7 +408,7 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
                   audioFile.url == _currentlyPlayingFile && _isPlaying;
 
               return Card(
-                margin: EdgeInsets.only(bottom: 8),
+                margin: const EdgeInsets.only(bottom: 8),
                 // Highlight the card if it's playing
                 color: isPlaying
                     ? Theme.of(context)

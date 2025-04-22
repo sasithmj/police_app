@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import 'package:flutter_secure_storage/flutter_secure_storage.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'package:police_app/config.dart' as config;
 
 class AuthProvider with ChangeNotifier {
@@ -26,9 +26,6 @@ class AuthProvider with ChangeNotifier {
   bool get isLoading => _isLoading;
   String get error => _error;
 
-  // Make sure you've initialized the storage like this
-  final storage = FlutterSecureStorage();
-
   // Login method
   Future<bool> login(String officerSVC, String password) async {
     try {
@@ -49,9 +46,10 @@ class AuthProvider with ChangeNotifier {
         _officerName = data["data"]['fullName'];
         _policeStation = data["data"]['policeStation'];
 
-        // Save token to secure storage
-        await storage.write(key: 'auth_token', value: _token);
-        await storage.write(key: 'officerSVC', value: _officerId);
+        // Save token to shared preferences
+        final prefs = await SharedPreferences.getInstance();
+        await prefs.setString('auth_token', _token);
+        await prefs.setString('officerSVC', _officerId);
         notifyListeners();
         print('Login successful');
         return true;
@@ -85,9 +83,10 @@ class AuthProvider with ChangeNotifier {
         _officerName = data["data"]['fullName'];
         _policeStation = data["data"]['policeStation'];
 
-        // Save token to secure storage
-        await storage.write(key: 'auth_token', value: _token);
-        await storage.write(key: 'officerSVC', value: _officerId);
+        // Save token to shared preferences
+        final prefs = await SharedPreferences.getInstance();
+        await prefs.setString('auth_token', _token);
+        await prefs.setString('officerSVC', _officerId);
 
         notifyListeners();
         print('Registration successful');
@@ -102,7 +101,7 @@ class AuthProvider with ChangeNotifier {
   }
 
   // Logout method
-  void logout() {
+  Future<void> logout() async {
     print('Logging out user $_officerId');
     _isLoggedIn = false;
     _officerId = '';
@@ -110,8 +109,10 @@ class AuthProvider with ChangeNotifier {
     _policeStation = '';
     _token = '';
 
-    // Remove token from secure storage
-    const FlutterSecureStorage().delete(key: 'auth_token');
+    // Remove token from shared preferences
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove('auth_token');
+    await prefs.remove('officerSVC');
     notifyListeners();
     print('User logged out');
   }
@@ -119,16 +120,20 @@ class AuthProvider with ChangeNotifier {
   // Check token validity and auto-login
   Future<bool> tryAutoLogin() async {
     try {
-      // Get token from secure storage
-      final token = await storage.read(key: 'auth_token');
-      final officerSVC = await storage.read(key: 'officerSVC');
+      // Get token from shared preferences
+      final prefs = await SharedPreferences.getInstance();
+      final token = prefs.getString('auth_token');
+      final officerSVC = prefs.getString('officerSVC');
 
       print(token);
       print(officerSVC);
 
-      if (token == null) {
+      if (token == null || officerSVC == null) {
         return false;
       }
+
+      // Set token to class variable
+      _token = token;
 
       print('Attempting auto-login with token: $token');
       final response = await http.post(
