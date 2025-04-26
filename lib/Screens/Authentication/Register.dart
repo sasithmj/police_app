@@ -391,14 +391,14 @@ class _RegistrationPageState extends State<RegistrationPage> {
         final authProvider = Provider.of<AuthProvider>(context, listen: false);
         final success = await authProvider.register(userData);
 
-        if (success && mounted) {
+        if (success["success"] && mounted) {
           // Registration successful, navigate back or to home
           Navigator.pop(context);
         } else if (mounted) {
           // Show error message
           ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(
-              content: Text('Registration failed. Please try again.'),
+            SnackBar(
+              content: Text(success["message"]),
               backgroundColor: Colors.redAccent,
             ),
           );

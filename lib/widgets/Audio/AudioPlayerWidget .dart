@@ -4,6 +4,7 @@ import 'package:just_audio/just_audio.dart';
 import 'package:http/http.dart' as http;
 import 'package:path_provider/path_provider.dart';
 import 'dart:io';
+import 'package:police_app/config.dart' as config;
 
 class AudioPlayerWidget extends StatefulWidget {
   final int ruleNumber;
@@ -29,9 +30,10 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
   bool _isLoading = true;
   bool _hasError = false;
   String _errorMessage = '';
+  String _currentlyPlayingFileName = "";
 
   // Base URL for your API - change this to your actual backend URL
-  final String _baseUrl = 'http://172.20.10.9:3001';
+  final String _baseUrl = config.baseUrl;
 
   @override
   void initState() {
@@ -88,8 +90,6 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
 
   Future<void> _loadAudioFiles() async {
     try {
-      print('🔄 DEBUG: Starting _loadAudioFiles for rule ${widget.ruleNumber}');
-
       final response = await http
           .get(Uri.parse('$_baseUrl/api/tracks/${widget.ruleNumber}'));
 
@@ -100,15 +100,15 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
           List<AudioFile> audioFiles = [];
 
           for (var file in data['files']) {
+            String filename = file['filename'];
+            String filenameWithoutExtension =
+                filename.substring(0, filename.lastIndexOf('.'));
             audioFiles.add(AudioFile(
-              filename: file['filename'],
+              filename: filenameWithoutExtension,
               url: file['url'],
               isMainFile: file['isMainFile'] ?? false,
             ));
           }
-
-          print('📊 DEBUG: Found ${audioFiles.length} audio files from server');
-
           if (audioFiles.isNotEmpty) {
             // Find main file
             AudioFile? mainFile = audioFiles.firstWhere(
@@ -119,6 +119,7 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
             setState(() {
               _audioFiles = audioFiles;
               _mainAudioFile = mainFile;
+              _currentlyPlayingFileName = mainFile.filename;
               _isLoading = false;
             });
 
@@ -139,12 +140,10 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
           });
         }
       } else if (response.statusCode == 404) {
-        print('⚠️ DEBUG: No audio files found for rule ${widget.ruleNumber}');
         setState(() {
           _isLoading = false;
         });
       } else {
-        print('❌ DEBUG: Error loading audio files: ${response.statusCode}');
         setState(() {
           _isLoading = false;
           _hasError = true;
@@ -152,7 +151,6 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
         });
       }
     } catch (e) {
-      print('❌❌ DEBUG: Error loading audio files: $e');
       setState(() {
         _isLoading = false;
         _hasError = true;
@@ -162,12 +160,10 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
   }
 
   Future<void> _loadAndPrepareAudio(String url) async {
-    print('🔄 DEBUG: Loading and preparing audio: $url');
     try {
       await _audioPlayer.setUrl(url);
-      print('✅ DEBUG: Successfully loaded audio URL');
     } catch (e) {
-      print('❌ DEBUG: Error loading audio: $e');
+      print('DEBUG: Error loading audio: $e');
     }
   }
 
@@ -179,6 +175,7 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
       setState(() {
         _currentlyPlayingFile = _currentlyPlayingFile ?? _mainAudioFile?.url;
       });
+
       await _audioPlayer.play();
     }
   }
@@ -206,8 +203,9 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
     // Update the currently playing file
     setState(() {
       _currentlyPlayingFile = audioFile.url;
+      _currentlyPlayingFileName = audioFile.filename;
     });
-
+    print("plaing now $_currentlyPlayingFile");
     await _audioPlayer.play();
   }
 
@@ -316,7 +314,7 @@ class _AudioPlayerWidgetState extends State<AudioPlayerWidget> {
                     children: [
                       Expanded(
                         child: Text(
-                          _mainAudioFile!.filename,
+                          _currentlyPlayingFileName,
                           style: Theme.of(context)
                               .textTheme
                               .bodyMedium

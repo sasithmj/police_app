@@ -17,7 +17,9 @@ class _RecentViolationsState extends State<RecentViolations> {
   @override
   void initState() {
     super.initState();
-    _fetchViolations();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _fetchViolations();
+    });
   }
 
   Future<void> _fetchViolations() async {

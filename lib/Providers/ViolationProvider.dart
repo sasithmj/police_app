@@ -165,8 +165,7 @@ class ViolationProvider with ChangeNotifier {
 
       if (id != null) filters['_id'] = id;
       if (touristName != null) filters['tourist.name'] = touristName;
-      if (touristPassport != null)
-        filters['tourist.passport'] = touristPassport;
+      if (touristPassport != null) filters['tourist.passport'] = touristPassport;
       if (touristCountry != null) filters['tourist.country'] = touristCountry;
       if (violationType != null) filters['violation.type'] = violationType;
       if (violationDate != null) filters['violation.date'] = violationDate;

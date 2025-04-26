@@ -9,6 +9,9 @@ class AuthProvider with ChangeNotifier {
   String _officerId = '';
   String _officerName = '';
   String _policeStation = '';
+  String _officerRank = '';
+  String _contact = '';
+  String _email = '';
   String _token = ''; // JWT token for authentication
   bool _isLoading = false;
   String _error = '';
@@ -22,6 +25,9 @@ class AuthProvider with ChangeNotifier {
   String get officerId => _officerId;
   String get officerName => _officerName;
   String get policeStation => _policeStation;
+  String get officerRank => _officerRank;
+  String get contactNumber => _contact;
+  String get email => _email;
   String get token => _token;
   bool get isLoading => _isLoading;
   String get error => _error;
@@ -63,7 +69,7 @@ class AuthProvider with ChangeNotifier {
   }
 
   // Registration method
-  Future<bool> register(Map<String, dynamic> userData) async {
+  Future<Map<String, dynamic>> register(Map<String, dynamic> userData) async {
     try {
       print('Attempting registration with data: $userData');
       final response = await http.post(
@@ -74,8 +80,11 @@ class AuthProvider with ChangeNotifier {
       print('Registration response status: ${response.statusCode}');
       print('Registration response body: ${response.body}');
 
+      final data = jsonDecode(response.body);
+      final message = data["success"] ?? "Unknown response";
+      final error = data["error"] ?? "Unknown Error";
+
       if (response.statusCode == 201) {
-        final data = jsonDecode(response.body);
         print(data["data"]);
         _isLoggedIn = true;
         _token = data["data"]['token'];
@@ -90,13 +99,18 @@ class AuthProvider with ChangeNotifier {
 
         notifyListeners();
         print('Registration successful');
-        return true;
+
+        return {'success': true, 'message': message};
       }
+
       print('Registration failed');
-      return false;
+      return {'success': false, 'message': error};
     } catch (e) {
       print('Registration error: $e');
-      return false;
+      return {
+        'success': false,
+        'message': 'Registration failed: ${e.toString()}'
+      };
     }
   }
 
@@ -166,6 +180,9 @@ class AuthProvider with ChangeNotifier {
     required String officerId,
     String? fullName,
     String? policeStation,
+    String? rank,
+    String? contactNumber,
+    String? email,
   }) async {
     _isLoading = true;
     _error = '';
@@ -176,6 +193,9 @@ class AuthProvider with ChangeNotifier {
         'officerSVC': officerId,
         if (fullName != null) 'fullName': fullName,
         if (policeStation != null) 'policeStation': policeStation,
+        if (rank != null) 'officerRank': rank,
+        if (contactNumber != null) 'contactNumber': contactNumber,
+        if (email != null) 'email': email,
       };
 
       print('Updating profile with data: $updateData');
@@ -209,6 +229,40 @@ class AuthProvider with ChangeNotifier {
       print(_error);
       notifyListeners();
       return false;
+    }
+  }
+
+  Future<Map<String, dynamic>> getProfileDetails(String id) async {
+    try {
+      final response = await http.get(
+        Uri.parse('$_baseUrl/profile/$id'),
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': 'Bearer $_token',
+        },
+      );
+      print('Get profile response: ${response.statusCode}');
+      print('Get profile body: ${response.body}');
+
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        _officerId = data["data"]['officerSVC'];
+        _officerName = data["data"]['fullName'];
+        _policeStation = data["data"]['policeStation'];
+        _officerRank = data["data"]['officerRank'];
+        _contact = data["data"]['contactNumber'];
+        _email = data["data"]['email'];
+
+        notifyListeners();
+        print(data["data"]);
+        return data["data"];
+      } else {
+        print('Failed to fetch profile');
+        return {};
+      }
+    } catch (e) {
+      print('Error fetching profile: $e');
+      return {};
     }
   }
 }

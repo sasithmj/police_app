@@ -6,7 +6,7 @@ class RuleProvider {
   Future<List<TrafficRule>> getRules() async {
     // In a real app, you might load this from an API or a database
     final String response =
-        await rootBundle.loadString('assets/traffic_rules.json');
+        await rootBundle.loadString('assets/new.json');
     final List<dynamic> jsonData = json.decode(response);
 
     return jsonData.map((data) => TrafficRule.fromJson(data)).toList();

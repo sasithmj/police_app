@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:police_app/Providers/AuthProvider.dart';
 import 'package:police_app/Screens/Authentication/Register.dart';
+import 'package:police_app/Screens/Home/Home.dart';
 import 'package:police_app/theme/AppColors.dart';
 import 'package:provider/provider.dart';
 
@@ -175,7 +176,12 @@ class _LoginPageState extends State<LoginPage> {
           _passwordController.text,
         );
 
-        if (!success && mounted) {
+        if (success && mounted) {
+          // Navigate to home page directly rather than relying on AuthWrapper
+          Navigator.of(context).pushReplacement(
+            MaterialPageRoute(builder: (context) => const HomePage()),
+          );
+        } else if (!success && mounted) {
           // Show error message
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(

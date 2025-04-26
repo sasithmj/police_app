@@ -1,0 +1,506 @@
+[
+  {
+    "rule_number": 1,
+    "title": {
+      "en": "Identification Plates",
+      "si": "හඳුනාගැනීමේ තහඩු",
+      "ta": "அடையாளத் தகடுகள்"
+    },
+    "description": {
+      "en": "- Every motor vehicle must have two identification plates, each bearing the vehicle's distinctive number.\n- Altering the shape of plates is not permitted.\n- Plates must comply with prescribed standards: the color of the plate background, the color and size of each letter and number, the spacing between letters or numbers, and the dimensions of the plate margins must all conform to general provisions as prescribed.\n- No part of any identification plate shall be obscured in any manner.\n- Each plate must be fixed and maintained upright on the vehicle, with the upper edge of the letters and numbers upwards.\n\nFine Amount: Rs 1000",
+      "si": "- සෑම මෝටර් රථයකම, එම මෝටර් රථයේ සුවිශේෂී අංකය දරන හඳුනාගැනීමේ තහඩු දෙකක් සවි කර නඩත්තු කළ යුතුය\n- තහඩු වල හැඩය වෙනස් කිරීමට අවසර නැත.\n- ප්‍රමිතීන්ට අනුකූල විය යුතුය. සෑම තහඩුවකම බිමෙහි ර්වණය, එවැනි තහඩුවේ සෑම අකුරකම සහ අංකයකම ර්වණය සහ ප්‍රමාණය, එවැනි අකුරු හෝ අංක අතර පරතරය, එවැනි තහඩුවේ මායිම්වල මානයන්, නියම කළ හැකි සාමාන්‍ය විධිවිධානවලට අනුකූල වේ.\n- කිසිදු හඳුනාගැනීමේ තහඩුවක කිසිදු කොටසක් කිසිදු ආකාරයකින් අපැහැදිලි නොකළ යුතුය.\n- සෑම හඳුනාගැනීමේ තහඩුවක්ම අකුරු සහ ඉලක්කම්වල ඉහළ දාරය ඉහළට සවි කර මෝටර් රථයේ නියමිත ස්ථානයක නඩත්තු කළ යුතුය.\n\nදඩ මුදල: රු. 1000",
+      "ta": "- ஒவ்வொரு மொட்டார் வாகனத்திலும், இரண்டு அடையாளத் தகடுகள் பொருத்தப்பட்டு பராமரிக்கப்பட வேண்டும், ஒவ்வொன்றும் அந்த மொட்டார் வாகனத்தின் தனித்துவமான எண் கொண்டிருக்கும்.\n- தகடுகளின் வடிவத்தை மாற்றுவதற்கு அனுமதி இல்லை.\n- தரநிலைகளுக்கு இணங்க இருக்க வேண்டும்: ஒவ்வொரு தகட்டின் தரையின் நிறம், அதில் உள்ள ஒவ்வொரு எழுத்தும் எண்களின் நிறம் மற்றும் அளவு, எழுத்துக்கள் அல்லது எண்களுக்கு இடையிலான இடைவெளி, தகட்டின் விளிம்புகளின் பரிமாணங்கள், பரிந்துரைக்கப்பட்ட பொதுவான விதிகளுக்கு இணங்க இருக்க வேண்டும்.\n- எந்தவொரு அடையாளத் தகட்டின் எந்த பகுதியும் எந்த விதத்திலும் மறைக்கப்படக்கூடாது.\n- ஒவ்வொரு அடையாளத் தகடும் எழுத்துக்கள் மற்றும் எண்களின் மேல் விளிம்பு மேலாக இருக்கும் வகையில் வாகனத்தில் செங்குத்தாக பொருத்தப்பட்டு பராமரிக்கப்பட வேண்டும்.\n\nஅபராதத் தொகை: ரூ. 1000"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 2,
+    "title": {
+      "en": "Contravening Revenue License Provisions",
+      "si": "ආදායම් බලපත්‍ර විධිවිධාන උල්ලංඝනය කිරීම",
+      "ta": "வருவாய் உரிம விதிகளை மீறுதல்"
+    },
+    "description": {
+      "en": "- The revenue license should be displayed on motor vehicles and produced when required.\n- Motor vehicles are required to display the revenue license in a visible location, usually on the windshield or another designated area.\n- A vehicle owner or driver must be able to present the revenue license when requested by authorities such as traffic police or transport department officials.\n\n**Fine Amount: Rs 1000**",
+      "si": "- ආදායම් බලපත්‍රය මෝටර් රථවල ප්‍රදර්ශනය කළ යුතු අතර අවශ්‍ය විට ඉදිරිපත් කළ යුතුය.\n- මෝටර් රථ වාහන ආදායම් බලපත්‍රය දෘශ්‍යමාන ස්ථානයක, සාමාන්‍යයෙන් ඉදිරිපස වීදුරුමේ හෝ නියමිත ප්‍රදේශයක ප්‍රදර්ශනය කළ යුතුය.\n- රථවාහන පොලීසිය හෝ ප්‍රවාහන දෙපාර්තමේන්තු නිලධාරීන් වැනි බලධාරීන් ඉල්ලා සිටින විට වාහන හිමිකරුට හෝ රියදුරාට ආදායම් බලපත්‍රය ඉදිරිපත් කිරීමට හැකි විය යුතුය.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- வருவாய் உரிமம் மொட்டார் வாகனங்களில் காட்சிப்படுத்தப்பட வேண்டும், தேவையானபோது காண்பிக்கப்பட வேண்டும்.\n- மொட்டார் வாகனங்கள் வருவாய் உரிமத்தை பாதுகாப்பாக கண்ணாடியில் அல்லது மற்ற நியமிக்கப்பட்ட பகுதியில் புலப்படும் இடத்தில் காட்சிப்படுத்த வேண்டும்.\n- போக்குவரத்து காவல்துறை அல்லது போக்குவரத்து அதிகாரிகள் கேட்டால் வாகன உரிமையாளர் அல்லது ஓட்டுநர் உரிமத்தை சமர்ப்பிக்க முடியும்.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 3,
+    "title": {
+      "en": "Prohibition On The Use Of Motor Vehicles Contravening The Provision Of Revenue License",
+      "si": "ආදායම් බලපත්‍ර විධිවිධානයට පටහැනිව මෝටර් රථ භාවිතය තහනම් කිරීම",
+      "ta": "வருவாய் உரிம விதியை மீறும் மமாட்டார் வாகனங்களைப் பயன்படுத்துவதைத் தடை செய்தல்"
+    },
+    "description": {
+      "en": "- No person shall possess or use a motor vehicle for which a revenue license is not in force.\n\n**Fine Amount: Rs 1000**",
+      "si": "- ආදායම් බලපත්‍රයක් බලපවත් නොවන මෝටර් රථයක් කිසිදු පුද්ගලයෙකු සතුව තබා ගැනීම හෝ භාවිතා කිරීම නොකළ යුතුය.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- வருவாய் உரிமம் நடைமுறையில் இல்லாத மொட்டார் வாகனத்தை எந்த நபரும் வைத்திருக்கவோ அல்லது பயன்படுத்தவோ கூடாது.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 4,
+    "title": {
+      "en": "Driving Emergency Service Vehicle And Public Service Vehicle Without A License",
+      "si": "බලපත්‍රයක් නොමැතිව හදිසි සේවා වාහන සහ රාජ්‍ය සේවා වාහන පැදවීම",
+      "ta": "அவசர சேவை வாகனம் மற்றும் பொதுச் சேவை வாகனத்தை உரிமம் இல்லாமல் ஓட்டுதல்"
+    },
+    "description": {
+      "en": "- No person shall drive a motor vehicle on a highway unless they hold a valid driving license appropriate for that class of vehicle.\n- This includes emergency service vehicles such as ambulances and fire trucks, and public service vehicles like buses and taxis.\n- Operating such vehicles without the proper license is a violation of this section.\n\n**Fine Amount: Rs 1000**",
+      "si": "- එම වාහන පන්තියට සුදුසු වලංගු රියදුරු බලපත්‍රයක් නොමැති නම්, කිසිදු පුද්ගලයෙකු අධිවේගී මාර්ගයක මෝටර් රථයක් ධාවනය නොකළ යුතුය.\n- නියමයට ගිලන් රථ සහ ගිනි නිවන රථ වැනි හදිසි සේවා වාහන සහ බස් රථ සහ කුලී රථ වැනි රාජ්‍ය සේවා වාහන ඇතුළත් වේ.\n- නිසි බලපත්‍රයක් නොමැතිව එවැනි වාහන ධාවනය කිරීම මෙම වගන්තිය උල්ලංඝනය කිරීමකි.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- அந்த வகை வாகனங்களுக்கு ஏற்ற செல்லுபடியாகும் ஓட்டுநர் உரிமம் இல்லாவிட்டால், எந்த நபரும் சாலையில் மொட்டார் வாகனம் ஓட்டக்கூடாது.\n- இதில் ஆம்புலன்ஸ் மற்றும் தீயணைப்பு வாகனங்கள் போன்ற அவசர சேவை வாகனங்கள் மற்றும் பேருந்துகள் மற்றும் டாக்ஸிகள் போன்ற பொதுச் சேவை வாகனங்கள் அடங்கும்.\n- உரிய உரிமம் இல்லாமல் அத்தகைய வாகனங்களை இயக்குவது இந்த பிரிவை மீறுவதாகும்.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 5,
+    "title": {
+      "en": "Driving Special Purpose Vehicle Without Obtaining A License",
+      "si": "බලපත්‍රයක් ලබා නොගෙන විශේෂ කාර්ය වාහනයක් පැදවීම",
+      "ta": "உரிமம் பெறாமல் சிறப்பு நோக்கு வாகனம் ஓட்டுதல்"
+    },
+    "description": {
+      "en": "- Encompasses special purpose vehicles, which may include agricultural tractors, construction machinery, or other specialized vehicles.\n- Drivers must possess a valid license with the necessary endorsements specific to these vehicle types to operate them legally on public roads.\n\n**Fine Amount: Rs 1000**",
+      "si": "- කෘෂිකාර්මික ට්‍රැක්ටර්, ඉදිකිරීම් යන්ත්‍රෝපකරණ හෝ වෙනත් විශේෂිත වාහන ඇතුළත් විය හැකි විශේෂ කාර්ය වාහන ඇතුළත් වේ.\n- පොදු මාර්ගවල නීතිඅනුකූල ක්‍රියාත්මක කිරීම සඳහා රියදුරන්ට එම වාහන සඳහා විශේෂිත වූ අනුමත කිරීම් සහිත වලංගු බලපත්‍රයක් තිබිය යුතුය.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- விவசாய டிராக்டர்கள், கட்டுமான இயந்திரங்கள் அல்லது பிற சிறப்பு வாகனங்கள் உள்ளிட்ட சிறப்பு நோக்கு வாகனங்கள் அடங்கும்.\n- பொதுச் சாலைகளில் சட்டப்பூர்வமாக இயக்க ஓட்டுநர்கள் இந்த வாகனங்களுக்கு குறிப்பிட்ட ஒப்புதல்களுடன் செல்லுபடியாகும் உரிமத்தை வைத்திருக்க வேண்டும்.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 6,
+    "title": {
+      "en": "Driving A Loaded Vehicle",
+      "si": "පටවන ලද වාහනයක් පැදවීම",
+      "ta": "ஏற்றப்பட்ட வாகனத்தை ஓட்டுதல்"
+    },
+    "description": {
+      "en": "- Driving a vehicle loaded with chemicals or hazardous waste without a license, or transporting hazardous materials, requires adherence to safety regulations and possession of the appropriate driving qualifications.\n- Drivers must have a valid license suitable for the vehicle class and the nature of the cargo, especially when dealing with dangerous goods.\n\n**Fine Amount: Rs 1000**",
+      "si": "- බලපත්‍රයක් නොමැතිව රසායනික ද්‍රව්‍ය, අන්තරායකර අපද්‍රව්‍ය පටවන ලද වාහනයක් පැදවීම, අන්තරායකර ද්‍රව්‍ය ප්‍රවාහනය කිරීම සඳහා ආරක්ෂක නියමයන් පිළිපැදීම සහ සුදුසු රියදුරු සුදුසුකම් තිබීම අවශ්‍ය වේ.\n- රියදුරන්ට වාහන පන්තියට සහ භාණ්ඩයේ ස්වභාවයට ගැළපෙන වලංගු බලපත්‍රයක් තිබිය යුතුය, විශේෂයෙන් භයානක භාණ්ඩ සමඟ කටයුතු කරන විට.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- உரிமம் இல்லாமல் ரசாயனங்கள், அபாயகரமான கழிவுகள் ஏற்றப்பட்ட வாகனத்தை ஓட்டுதல், அபாயகரமான பொருட்கள் போக்குவரத்து செய்யும் போது பாதுகாப்பு விதிமுறைகளை கடைபிடிப்பதும், உரிய ஓட்டுநர் தகுதி பெற்றிருப்பதும் அவசியம்.\n- ஓட்டுநர்கள் வாகன வகை மற்றும் சரக்கின் தன்மைக்கு ஏற்ற செல்லுபடியாகும் உரிமத்தை வைத்திருக்க வேண்டும், குறிப்பாக அபாயகரமான பொருட்கள் தொடர்பாக.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 7,
+    "title": {
+      "en": "Not Having A License To Drive A Specific Class Of Vehicles",
+      "si": "නිශ්චිත වාහන පන්තියක් පැදවීමට බලපත්‍රයක් නොමැති වීම",
+      "ta": "குறிப்பிட்ட வகை வாகனங்களை ஓட்ட உரிமம் இல்லாதது"
+    },
+    "description": {
+      "en": "- Motor vehicles are divided into the following classes:\n  a. Motor coaches\n  b. Lorries, motor ambulances, and motor hearses\n  c. Hiring cars\n  d. Steam-driven motor vehicles\n  e. Motorcycles\n  f. Invalid carriages\n  g. Private cars and motor vehicles\n- No person shall drive a motor vehicle on a highway unless they hold a valid driving license appropriate for that class of vehicle.\n\n**Fine Amount: Rs 1000**",
+      "si": "- මෝටර් වාහන පහත සඳහන් පන්තීන්වලට බෙදේ:\n  අ. මෝටර් රථ පුහුණුකරුවන්\n  බ. ලොරියන් සහ අමතරව මෝටර් ගිලන්රථ සහ මෝටර් රථ\n  ස. කුලියට ගත් මෝටර් රථ\n  ද. වාෂ්පයෙන් ධාවනය වන මෝටර් රථ\n  ධ. යතුරුපැදි\n  න. අවලංගු කරත්ත\n  ප. පුද්ගලික මෝටර් රථ සහ මෝටර් වාහන\n- එම වාහන පන්තියට සුදුසු වලංගු රියදුරු බලපත්‍රයක් නොමැති නම්, කිසිදු පුද්ගලයෙකු අධිවේගී මාර්ගයක මෝටර් රථයක් ධාවනය නොකළ යුතුය.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- மொட்டார் வாகனங்கள் பின்வரும் வகுப்புகளாகப் பிரிக்கப்படுகின்றன:\n  a. மொட்டார் வண்டிகள்\n  b. லோரிகள் மற்றும் கூடுதலாக மொட்டார் ஆம்புலன்ஸ் மற்றும் மொட்டார் சவக்கிடங்கள்\n  c. வாடகை கார்கள்\n  d. நீராவி இயக்கும் மொட்டார் வாகனங்கள்\n  e. மொட்டார் சைக்கிள்கள்\n  f. செல்லாத வண்டிகள்\n  g. தனியார் கார்கள் மற்றும் மொட்டார் வாகனங்கள்\n- அந்த வகை வாகனத்திற்கு ஏற்ற செல்லுபடியாகும் ஓட்டுநர் உரிமம் இல்லாவிட்டால், எந்த நபரும் சாலையில் மொட்டார் வாகனம் ஓட்டக்கூடாது.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 8,
+    "title": {
+      "en": "Failure To Carry Driving License When Driving",
+      "si": "රිය පැදවීමේදී රියදුරු බලපත්‍රය රැගෙන නොයෑම",
+      "ta": "வாகனம் ஓட்டும் போது ஓட்டுநர் உரிமம் வைத்திருக்கத் தவறுதல்"
+    },
+    "description": {
+      "en": "- No person shall drive a motor vehicle of any class on a highway unless he is the holder of an effective driving license which is valid for motor vehicles of that class.\n- No person shall employ any other person to drive a motor vehicle of any class on a highway unless the person so employed is the holder of an effective driving license which is valid for motor vehicles of that class.\n\n**Fine Amount: Rs 1000**",
+      "si": "- එම පන්තියේ මෝටර් රථ සඳහා වලංගු ඵලදායී රියදුරු බලපත්‍රයක් හිමිකරු නොවේ නම්, කිසිදු පුද්ගලයෙකු අධිවේගී මාර්ගයක කිසිදු පන්තියේ මෝටර් රථයක් ධාවනය නොකළ යුතුය.\n- එසේ සේවයට යොදවා ඇති පුද්ගලයා එම පන්තියේ මෝටර් රථ සඳහා වලංගු ඵලදායී රියදුරු බලපත්‍රයක් හිමිකරු නොවේ නම්, කිසිදු පුද්ගලයෙකු අධිවේගී මාර්ගයක කිසිදු පන්තියේ මෝටර් රථයක් පැදවීම සඳහා වෙනත් පුද්ගලයෙකු යොදවා නොයුතුය.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- அந்த வகுப்பின் மொட்டார் வாகனங்களுக்கு செல்லுபடியாகும் பயனுள்ள ஓட்டுநர் உரிமம் இல்லாவிட்டால், எந்த நபரும் சாலையில் எந்த வகுப்பின் மொட்டார் வாகனத்தையும் ஓட்டக்கூடாது.\n- அந்த வகுப்பின் மொட்டார் வாகனங்களுக்கு செல்லுபடியாகும் பயனுள்ள ஓட்டுநர் உரிமம் இல்லாவிட்டால், எந்த நபரும் சாலையில் எந்த வகுப்பின் மொட்டார் வாகனத்தையும் ஓட்ட மற்றொருவரை பணியமர்த்தக்கூடாது.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 9,
+    "title": {
+      "en": "Instructing Without An Instructor's License",
+      "si": "උපදේශක බලපත්‍රයක් නොමැතිව උපදෙස් දීම",
+      "ta": "பயிற்றுவிப்பாளர் உரிமம் இல்லாமல் பயிற்றுவித்தல்"
+    },
+    "description": {
+      "en": "- Individuals providing driving instruction must hold a valid instructor's license. This ensures that driving instructors meet the required standards and possess the necessary qualifications to train learner drivers.\n- No person shall, on or after the relevant date, act as a driving instructor, except under the authority and in accordance with the terms and conditions of a license (hereinafter referred to as an instructor's license) issued in that behalf by the Commissioner for the time being in force.\n\n**Fine Amount: Rs 2000**",
+      "si": "- රියදුරු උපදෙස් ලබා දෙන පුද්ගලයින් වලංගු උපදේශක බලපත්‍රයක් තිබිය යුතුය. මෙයින් රියදුරු උපදේශකයින් අවශ්‍ය ප්‍රමිතීන් සපුරාලන බවත්, ඉගෙනුම් රියදුරන් පුහුණු කිරීමට අවශ්‍ය සුදුසුකම් ඇති බවත් සහතික වේ.\n- අධිකාරිය යටතේ සහ බලපත්‍රයක නියමයන් සහ කොන්දේසි වලට අනුකූලව හැර, අදාල දිනයේදී හෝ පසුව කිසිදු පුද්ගලයෙකු රියදුරු උපදේශකයෙකු ලෙස කටයුතු නොකළ යුතුය. මෙය දැනට බලපැවැත්වෙන කොමිෂන් සභාපති විසින් නිකුත් කරන උපදේශක බලපත්‍රයක් ලෙස හඳුන්වනු ලැබේ.\n\n**දඩ මුදල: රු. 2000**",
+      "ta": "- ஓட்டுநர் பயிற்சி அளிக்கும் நபர்கள் செல்லுபடியாகும் பயிற்றுவிப்பாளர் உரிமத்தை வைத்திருக்க வேண்டும். இது பயிற்றுவிப்பாளர்கள் தேவையான தரநிலைகளை பூர்த்தி செய்கிறார்கள் மற்றும் கற்றல் ஓட்டுநர்களை பயிற்றுவிப்பதற்கான தேவையான தகுதிகள் பெற்றிருக்கிறார்கள் என்பதை உறுதி செய்கிறது.\n- சம்பந்தப்பட்ட தேதிக்கு பிறகு, உரிமத்தின் அதிகாரத்தின்கீழ் மற்றும் விதிமுறைகள் மற்றும் நிபந்தனைகளின்படி தவிர, எந்த நபரும் ஓட்டுநர் பயிற்றுவிப்பாளராக செயல்படக்கூடாது. இதனை பயிற்றுவிப்பாளர் உரிமம் என குறிப்பிடப்படுகிறது, இது அந்நியாயமாக வழங்கப்படுகிறது.\n\n**அபராதத் தொகை: ரூ. 2000**"
+    },
+    "fine_amount": 2000
+  },
+  {
+    "rule_number": 10,
+    "title": {
+      "en": "Speeding Limits",
+      "si": "වේග සීමාවන්",
+      "ta": "வேக வரம்புகள்"
+    },
+    "description": {
+      "en": "- A motor coach or a lorry having a tare exceeding one tonne shall not be driven:\n  a. On any highway within an urban area at a greater speed than twenty miles per hour.\n  b. On any highway outside an urban area at a greater speed than twenty-five miles per hour.\n- A motor coach or a lorry not having a tare exceeding one tonne shall not be driven:\n  a. On any highway within an urban area at a greater speed than thirty miles per hour.\n  b. On any highway outside an urban area at a greater speed than forty miles per hour.\n\n**Fine Amount: Rs 3000**",
+      "si": "- ටන් එකකට වඩා වැඩි ඉරීමක් ඇති මෝටර් කෝච් එකක් හෝ ලොරියක් ධාවනය නොකළ යුතුය:\n  අ. නොගරික ප්‍රදේශයක් තුළ පැයට සැතපුම් විස්සකට වඩා වැඩි වේගයකින්.\n  ආ. නොගරික ප්‍රදේශයෙන් පිටත ඕනෑම අධිවේගී මාර්ගයක පැයට සැතපුම් විසිපහකට වඩා වැඩි වේගයකින්.\n- ටන් එකකට වඩා වැඩි ඉරීමක් නොමැති මෝටර් කෝච් එකක් හෝ ලොරියක් ධාවනය නොකළ යුතුය:\n  අ. නොගරික ප්‍රදේශයක් තුළ ඕනෑම අධිවේගී මාර්ගයක පැයට සැතපුම් තිහකට වඩා වැඩි වේගයකින්.\n  ආ. නොගරික ප්‍රදේශයෙන් පිටත ඕනෑම අධිවේගී මාර්ගයක පැයට සැතපුම් හතලිහකට වඩා වැඩි වේගයකින්.\n\n**දඩ මුදල: රු. 3000**",
+      "ta": "- ஒரு டன்னுக்கு மேல் கிழிந்த மொட்டார் கோச் அல்லது லோறி ஓட்டக்கூடாது:\n  a. நகர்ப்புறத்திற்குள் உள்ள எந்த நெடுஞ்சாலையிலும் மணிக்கு இருபது மைலில் அதிக வேகத்தில்.\n  b. நகர்ப்புறத்திற்கு வெளியே உள்ள எந்த நெடுஞ்சாலையிலும் மணிக்கு இருபத்தி ஐந்து மைலில் அதிக வேகத்தில்.\n- ஒரு டன்னுக்கு மேல் கிழிந்தது இல்லாத மொட்டார் கோச் அல்லது லோறி ஓட்டக்கூடாது:\n  a. நகர்ப்புறத்திற்குள் உள்ள எந்த நெடுஞ்சாலையிலும் மணிக்கு முப்பது மைலில் அதிக வேகத்தில்.\n  b. நகர்ப்புறத்திற்கு வெளியே உள்ள எந்த நெடுஞ்சாலையிலும் மணிக்கு நாற்பது மைலில் அதிக வேகத்தில்.\n\n**அபராதத் தொகை: ரூ. 3000**"
+    },
+    "fine_amount": 3000
+  },
+  {
+    "rule_number": 11,
+    "title": {
+      "en": "Disobeying Road Rules",
+      "si": "මාර්ග නීතිවලට අකීකරු වීම",
+      "ta": "சாலை விதிகளை மீறுதல்"
+    },
+    "description": {
+      "en": "- A motor vehicle meeting or being overtaken by other traffic shall be kept to the left or near side of the road.\n- A motor vehicle being overtaken by other traffic shall be driven so as to allow such other traffic to pass it.\n- A motor vehicle shall not be driven so as to overtake other traffic unless the driver has a clear and unobstructed view of the road ahead.\n- A motor vehicle overtaking other traffic shall be kept on the right or off side of such other traffic, but may pass a tram car or an animal being led or driven on the side that appears safer to the driver at that time.\n- A motor vehicle shall not be driven alongside or overtake other traffic proceeding in the same direction in such manner as to obstruct any traffic proceeding in the opposite direction.\n- A motor vehicle shall not be driven so as to cross or commence to cross a highway, or be turned in a highway, in such manner as to obstruct any traffic on the highway.\n- A motor vehicle proceeding from a place which is not a highway into a highway, or vice versa, shall not be driven in such manner as to obstruct any traffic on the highway.\n- A motor vehicle proceeding from any highway to any other highway shall not be driven in such manner as to obstruct any traffic on such other highway.\n- At intersections, a vehicle turning into or crossing a main road must not obstruct any traffic on that main road.\n- Where vehicles approach an intersection at the same time from different directions, and intend to drive along the same part of the intersection, the vehicle from the right or off side has priority if traffic is not regulated by police or signals.\n- On a narrow highway, vehicles approaching each other shall slow down to allow safe passage.\n- Unless otherwise directed by a police officer, a vehicle turning left must keep as near as possible to the left edge of the highway.\n\n**Fine Amount: Rs 2000**",
+      "si": "- මමෝටර් රථ රැස්වීමක් හෝ වෙනත් වාහන තදබදයක් අභිබවා යාම මාර්ගයේ වම් පසින් හෝ ආසන්නයෙන් තබා ගත යුතුය.\n- වෙනත් වාහන තදබදයක් අභිබවා යන මමෝටර් රථයක් එවැනි වෙනත් වාහන තදබදයක් පසුකර යාමට ඉඩ සලසන පරිදි ධාවනය කළ යුතුය.\n- රියදුරුට ඉදිරිපස ඇති මාර්ගය පැහැදිලිව සහ බාධාවකින් තොරව දැකගත හැකි නම් පමණක් වෙනත් වාහන තදබදයක් අභිබවා යාමට මමෝටර් රථයක් ධාවනය කළ යුතුය.\n- වෙනත් වාහන තදබදයක් අභිබවා යන මමෝටර් රථයක් එවැනි වෙනත් වාහන තදබදයේ දකුණු හෝ පිටත පැත්තෙන් තබා ගත යුතුය. එහෙත්, මමෝටර් රථයකට ට්‍රෑම් රථයක් හෝ මමමහයෙන හෝ ධාවනය කරන සතුන් පසුකර යාමට හෝ අභිබවා යාමට හැකි අතර, එම අවස්ථාවේදී රියදුරුට ආරක්ෂිත පැත්ත ලෙස පෙනෙන පැත්තෙන් යාමට ඉඩ ඇත.\n- ප්‍රතිවිරුද්ධ දිශාවට ගමන් කරන ඕනෑම ගමනාගමනයකට බාධා වන ආකාරයෙන් එකම දිශාවට ගමන් කරන වෙනත් වාහන අසලින් ධාවනය කිරීම හෝ අභිබවා යාම නොකළ යුතුය.\n- අධිවේගී මාර්ගයක ඕනෑම ගමනාගමනයකට බාධා වන ආකාරයෙන් අධිවේගී මාර්ගයක් හරස්ව කිරීමට හෝ හරස්ව කිරීමට පටන් ගැනීමට හෝ අධිවේගී මාර්ගයකට හැරීමට මමෝටර් රථයක් ධාවනය නොකළ යුතුය.\n- අධිවේගී මාර්ගයක් නොවන ස්ථානයක සිට අධිවේගී මාර්ගයකට හෝ අධිවේගී මාර්ගයකින් නොවන ස්ථානයකට යන මමෝටර් රථයක් අධිවේගී මාර්ගයේ කිසිදු ගමනාගමනයකට බාධා වන ආකාරයෙන් ධාවනය නොකළ යුතුය.\n- ඕනෑම අධිවේගී මාර්ගයකින් වෙනත් අධිවේගී මාර්ගයකට යන මමෝටර් රථයක් එවැනි වෙනත් අධිවේගී මාර්ගයේ කිසිදු ගමනාගමනයකට බාධා වන ආකාරයෙන් ධාවනය නොකළ යුතුය.\n- අධිවේගී මාර්ග මූලික හෝ බහු මංසන්ධිවලදී, ප්‍රධාන මාර්ගයක් හෝ ප්‍රකාශයට පත් කර ඇති මාර්ගයක් හරහා හැරෙන හෝ හරස්ව ගමන් කරන මමෝටර් රථයක් එම ප්‍රධාන මාර්ගයේ කිසිදු ගමනාගමනයකට බාධා වන ආකාරයෙන් ධාවනය නොකළ යුතුය.\n- එකම මංසන්ධියට විවිධ දිශාවලින් එකවර ළඟා වන මමෝටර් රථ කිහිපයක් එහි රියදුරන් එකම ප්‍රදේශයේ ධාවනය කිරීමට අදහස් කරන විට, පොලිස් නිලධාරියෙකු හෝ ආලෝක සංඥා හෝ දැන්වීම් මගින් නියාමනය නොකරන්නේ නම්, දකුණු පැත්තෙන් පැමිණෙන මමෝටර් රථය පසුකර යාමට ඉඩ දිය යුතුය.\n- පටු අධිවේගී මාර්ගයක මමෝටර් රථ කිහිපයක් එකම වෙලාවේ ළඟා වන විට, අනෙක් වාහනවලට හෝ අධිවේගී මාර්ගයේ වෙනත් ගමනාගමනයකට ආරක්ෂිතව ගමන් කිරීමට ඉඩ සලසීම සඳහා සියලු වාහනවලම වේගය අඩු කළ යුතුය.\n- රාජකාරියේ නියුතු පොලිස් නිලධාරියෙකු විසින් වෙනත් ආකාරයකින් නියෝග නොකළහොත්, අධිවේගී මාර්ගයක සිට වෙනත් අධිවේගී මාර්ගයකට හැරෙන මමෝටර් රථයක් හැකිතාක් ආසන්නව අධිවේගී මාර්ගයේ වම් පැත්තට තබා ගත යුතුය.\n\n**දඩ මුදල: රු. 2000**",
+      "ta": "- ஒரு மொட்டார் வாகனம் சந்திக்கும் போது அல்லது மற்ற வாகனங்கள் முந்திச் செல்லும் போது சாலையின் இடது அல்லது அருகில் வாகனம் நிறுத்தப்பட வேண்டும்.\n- மற்ற வாகனங்கள் முந்திச் செல்லும் போது, அவை கடந்து செல்ல அனுமதிக்கும் வகையில் ஓட்டப்பட வேண்டும்.\n- ஓட்டுநருக்கு முன்னோக்கி சாலையை தெளிவாக பார்க்க முடியாவிட்டால், மற்ற வாகனங்களை முந்திச் செல்லக்கூடாது.\n- மற்ற வாகனங்களை முந்திச் செல்லும் போது வலது அல்லது ஆஃப் பக்கத்தில் வாகனம் வைக்க வேண்டும், ஆனால் டிராம் கார் அல்லது விலங்குகளை ஓட்டும் போது ஓட்டுநருக்கு பாதுகாப்பான பக்கத்தில் செல்லலாம்.\n- எதிர் திசையில் வரும் போக்குவரத்துக்கு தடையாக இருக்கும் வகையில், ஒரே திசையில் செல்லும் வாகனங்களை அருகில் ஓட்டவோ, முந்திச் செல்லவோ கூடாது.\n- சாலையை கடக்கவோ, திரும்பவோ, அல்லது சாலையில் வாகனத்தை திருப்பவோ, அந்த சாலையில் உள்ள போக்குவரத்துக்கு தடையாக இருக்கக்கூடாது.\n- சாலை அல்லாத இடத்திலிருந்து சாலைக்கு அல்லது சாலையிலிருந்து சாலை அல்லாத இடத்திற்கு செல்லும் போது, சாலையில் உள்ள போக்குவரத்துக்கு தடையாக இருக்கக்கூடாது.\n- ஒரு சாலையிலிருந்து மற்றொரு சாலைக்கு செல்லும் போது, அந்த சாலையில் உள்ள போக்குவரத்துக்கு தடையாக இருக்கக்கூடாது.\n- சந்திப்புகளில், முக்கிய சாலையில் திரும்பும் போது, அந்த சாலையில் உள்ள போக்குவரத்துக்கு தடையாக இருக்கக்கூடாது.\n- ஒரே நேரத்தில் பல திசைகளில் இருந்து சந்திப்பில் வரும் வாகனங்கள், ஒரே பகுதியை பயன்படுத்த நினைத்தால், வலது பக்கத்திலிருந்து வரும் வாகனத்திற்கு முன்னுரிமை உள்ளது (போக்குவரத்து ஒழுங்கு செய்யப்படவில்லை என்றால்).\n- குறுகிய சாலையில் எதிரே வரும் வாகனங்கள், பாதுகாப்பாக செல்ல வேகத்தை குறைக்க வேண்டும்.\n- போலீஸ் அதிகாரி வேறு விதமாக கூறவில்லை என்றால், இடது புறம் திரும்பும் வாகனம் சாலையின் இடது விளிம்புக்கு அருகில் வைக்க வேண்டும்.\n\n**அபராதத் தொகை: ரூ. 2000**"
+    },
+    "fine_amount": 2000
+  },
+  {
+    "rule_number": 12,
+    "title": {
+      "en": "Activities Obstructing the Control of the Vehicle",
+      "si": "වාහනයේ පාලනයට බාධා කරන ක්‍රියාකාරකම්",
+      "ta": "வாகனக் கட்டுப்பாட்டைத் தடுக்கும் நடவடிக்கைகள்"
+    },
+    "description": {
+      "en": "- No person shall drive a motor vehicle on a highway when he is in such a position that he has not or cannot have full control of the vehicle or a full and unobstructed view of the highway and the traffic ahead.\n- The driver shall not permit any person to sit beside him in any position which obstructs or is likely to obstruct the view of the highway and the traffic ahead, or which hinders or is likely to hinder the steering or control of the vehicle.\n- The driver shall not permit any person to sit or stand on the right hand side of the driver's seat if the vehicle is steered from the right, or on the left hand side if the vehicle is steered from the left.\n\n**Fine Amount: Rs 1000**",
+      "si": "- කිසිදු පුද්ගලයෙකුට වාහනයේ සම්පූර්ණ පාලනයක් නැති හෝ නැතිවිය හැකි ස්ථානයක සිටින විට හෝ අධිවේගී මාර්ගය සහ වාහනයේ ඉදිරියෙන් ඇති වාහන තදබදය පිළිබඳ සම්පූර්ණ සහ බාධාවකින් තොර දර්ශනයක් නොමැති විට අධිවේගී මාර්ගයක වාහනයක් ධාවනය නොකළ යුතුය.\n- අධිවේගී මාර්ගයක වාහනයේ රියදුරු, අධිවේගී මාර්ගය සහ වාහනයේ ඉදිරියෙන් ඇති වාහන තදබදයට බාධා කරන හෝ බාධා කිරීමට ඉඩ ඇති හෝ වාහනයේ සුක්කානම හෝ පාලනයට බාධා කරන හෝ බාධා කිරීමට ඉඩ ඇති ඕනෑම ස්ථානයක තමා අසල වාඩි වීමට කිසිදු පුද්ගලයෙකුට ඉඩ නොදිය යුතුය.\n- වාහනය දකුණු පසින් හෝ ඉන් පිටතින් ධාවනය කරන නම්, රියදුරු අසුනේ දකුණු පසින් හෝ වාහනය වම් පසින් හෝ ආසන්නයෙන් ධාවනය කරන නම්, එම අසුනේ වම් පසින් වාඩි වීමට හෝ සිටීමට කිසිදු පුද්ගලයෙකුට ඉඩ නොදිය යුතුය.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- வாகனத்தின் முழுக் கட்டுப்பாட்டையும் அல்லது நெடுஞ்சாலையையும் மற்றும் வாகனத்தின் முன்பக்க போக்குவரத்தையும் முழுமையாகவும் தடை இல்லாமல் பார்க்க முடியாத நிலையில் எந்த நபரும் நெடுஞ்சாலையில் வாகனம் ஓட்டக்கூடாது.\n- ஓட்டுநர், நெடுஞ்சாலையின் பார்வையையும் முன்பக்க போக்குவரத்தையும் தடுக்கும் அல்லது தடுக்கும் வகையில் அல்லது வாகனத்தின் ஸ்டீரிங் அல்லது கட்டுப்பாட்டை தடுக்கும் அல்லது தடுக்கும் வகையில் அருகில் உட்கார அனுமதிக்கக் கூடாது.\n- வாகனம் வலது பக்கத்திலிருந்து இயக்கப்படின், ஓட்டுநர் இருக்கையின் வலது பக்கத்தில் அல்லது வாகனம் இடது பக்கத்திலிருந்து இயக்கப்படின், அந்த இருக்கையின் இடது பக்கத்தில் உட்கார அல்லது நிற்க அனுமதிக்கக் கூடாது.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 13,
+    "title": {
+      "en": "Using Inappropriate Signals when Driving",
+      "si": "රිය පැදවීමේදී නුසුදුසු සංඥා භාවිතා කිරීම",
+      "ta": "வாகனம் ஓட்டும்போது பொருத்தமற்ற சிக்னல்களைப் பயன்படுத்துதல்"
+    },
+    "description": {
+      "en": "- Drivers are required to use appropriate hand signals or vehicle indicators to communicate their intentions to other road users, thereby preventing accidents and ensuring smooth traffic flow.\n- Before turning or changing direction to the right, the driver must extend his right arm and hand horizontally straight out from the right or off side with the palm turned to the front, so as to be visible to other drivers.\n- The driver may signal to an overtaking vehicle not to attempt to pass by extending his right arm and hand horizontally straight out from the right or off side, palm downwards, and moving the arm up and down; or to signal to an overtaking vehicle to pass, extend his right arm and hand below the shoulder level from the right or off side with the palm turned to the front, moving the arm backwards and forwards.\n\n**Fine Amount: Rs 1000**",
+      "si": "- රියදුරන් තම අභිප්‍රායන් අනෙකුත් මාර්ග භාවිතා කරන්නන්ට සන්නිවේදනය කිරීම සඳහා සුදුසු අත් සංඥා හෝ වාහන දර්ශක භාවිතා කළ යුතුය, එමඟින් අනතුරු වළක්වා ගැනීමට සහ සුමට රථවාහන ප්‍රවාහයක් සහතික කිරීමට අවශ්‍ය වේ.\n- මෝටර් රථයක රියදුරු, දකුණට හැරවීමට හෝ දිශාව වෙනස් කිරීමට පෙර, අදාළ සියලුම වාහනවල රියදුරන්ට පෙනෙන පරිදි, තම දකුණු අත සහ අත දකුණු හෝ පිටත පැත්තෙන් තිරස්ව දිගු කර, අත්ල ඉදිරියට හරවා ගත යුතුය.\n- රියදුරුට සුදුසු යැයි සිතේ නම්: (අ) ඉස්සර කරන වාහනයකට පසුකර යාමට උත්සාහ නොකරන්නැයි සංඥා කිරීම සඳහා, ඔහුගේ දකුණු අත සහ අත මෝටර් රථයේ දකුණු හෝ පිටත පැත්තෙන් තිරස්ව දිගු කර, අත්ල පහළට හරවා, අත ඉහළට සහ පහළට නගා යුතුය; (ආ) ඉස්සර කරන වාහනයකට පසුකර යාමට සංඥා කිරීම සඳහා, ඔහුගේ දකුණු අත සහ අත මෝටර් රථයේ දකුණු හෝ පිටත පැත්තෙන් උරහිස් මට්ටමට පහළින් දිගු කර, අත්ල ඉදිරියට හරවා, අත පසුපසට සහ ඉදිරියට නගා යුතුය.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- ஓட்டுநர்கள் தங்கள் நோக்கங்களை மற்ற சாலை பயனர்களுக்குத் தெரிவிக்க பொருத்தமான கை சமிக்னல்கள் அல்லது வாகன குறிகாட்டிகளை பயன்படுத்த வேண்டும், இதன் மூலம் விபத்துகளைத் தடுக்கும் மற்றும் சீரான போக்குவரத்து ஓட்டத்தை உறுதி செய்யும்.\n- வலது பக்கம் திரும்புவதற்கு அல்லது திசை மாற்றுவதற்கு முன், ஓட்டுநர் தனது வலது கை மற்றும் கையை வலது அல்லது பக்கத்திலிருந்து நேராக நீட்டி, உள்ளங்கை முன்பக்கமாக திருப்பி, மற்ற ஓட்டுநர்களுக்குப் புலப்படும் வகையில் காட்ட வேண்டும்.\n- ஓட்டுநர், (அ) முந்திச் செல்லும் வாகனம் கடந்து செல்ல முயற்சிக்க வேண்டாம் என்று சமிக்னல் செய்ய, வலது கை மற்றும் கையை வலது அல்லது பக்கத்திலிருந்து நேராக நீட்டி, உள்ளங்கை கீழ்நோக்கி, கையை மேலும் கீழும் நகர்த்த வேண்டும்; (ஆ) முந்திச் செல்லும் வாகனம் கடந்து செல்ல சமிக்னல் செய்ய, வலது கை மற்றும் கையை வலது அல்லது பக்கத்திலிருந்து தோள்பட்லட மட்டத்திற்கு கீழே நீட்டி, உள்ளங்கை முன்பக்கமாக திருப்பி, கையை முன்னும் பின்னும் நகர்த்த வேண்டும்.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 14,
+    "title": {
+      "en": "Reversing a Long Distance",
+      "si": "දිගු දුරක් ආපසු හැරවීම",
+      "ta": "நீண்ட தூரம் பின்னோக்கிச் செல்லுதல்"
+    },
+    "description": {
+      "en": "- The driver of a motor vehicle shall not reverse the vehicle or permit it to travel backwards on a highway for a longer distance than may be necessary for the purpose of turning that vehicle or for any other reasonable purpose.\n\n**Fine Amount: Rs 1000**",
+      "si": "- මමෝටර් රථයක රියදුරු විසින් එම වාහනය හැරවීමට හෝ වෙනත් සාධාරණ අරමුණක් සඳහා අවශ්‍ය විය හැකි ප්‍රමාණයට වඩා දිගු දුරක් අධිවේගී මාර්ගයක වාහනය ආපසු හැරවීම හෝ පසුපසට ගමන් කිරීමට ඉඩ නොදිය යුතුය.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- ஒரு மொட்டோர் வாகனத்தின் ஓட்டுநர், அந்த வாகனத்தைத் திருப்புவதற்கு அல்லது மற்ற எந்த நியாயமான நோக்கத்திற்கும் தேவையானதை விட அதிக தூரம் வாகனத்தை பின்னோக்கிச் செல்லவோ அல்லது நெடுஞ்சாலையில் பின்னோக்கிச் செல்ல அனுமதிக்கக் கூடாது.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 15,
+    "title": {
+      "en": "Improper use of Warning Instruments",
+      "si": "අනතුරු ඇඟවීමේ උපකරණ අනිසි ලෙස භාවිතා කිරීම",
+      "ta": "எச்சரிக்கை கருவியின் முறையற்ற பயன்பாடு"
+    },
+    "description": {
+      "en": "- The driver of a motor vehicle on a highway shall give audible and sufficient warning of the approach or position of the motor vehicle by sounding an efficient instrument whenever such warning is necessary for safety.\n- However, when a motor vehicle is stationary on a highway, no warning instrument affixed to that vehicle shall be sounded except for the purpose of preventing an accident or ensuring the safety of the vehicle or its occupants.\n\n**Fine Amount: Rs 1000**",
+      "si": "- අධිවේගී මාර්ගයක මෝටර් රථයක රියදුරු විසින් ආරක්ෂාව සඳහා එවැනි අනතුරු ඇඟවීමක් අවශ්‍ය වූ විට කාර්යක්ෂම උපකරණයක් ශ්‍රව්‍ය කිරීමට මෝටර් රථයේ ප්‍රවේශය හෝ ස්ථානය පිළිබඳව ශ්‍රව්‍ය හා ප්‍රමාණවත් අනතුරු ඇඟවීමක් ලබා දිය යුතුය.\n- වහාත්, මෝටර් රථයක් අධිවේගී මාර්ගයක නිශ්චලව ඇති විට, අනතුරක් වැළැක්වීමට හෝ වාහනයේ හෝ එහි ගමන් කරන්නන්ගේ ආරක්ෂාව සහතික කිරීමට හැර, එම වාහනයට සවි කර ඇති කිසිදු අනතුරු ඇඟවීමේ උපකරණයක් ශ්‍රව්‍ය නොකළ යුතුය.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- நெடுஞ்சாலையில் ஒரு மொட்டார் வாகனத்தின் ஓட்டுநர், பாதுகாப்பிற்காக அத்தகைய எச்சரிக்கை வழங்க வேண்டியபோது திறமையான கருவியை ஒலிப்பதன் மூலம் மொட்டார் வாகனத்தின் அணுகுமுறை அல்லது நிலை குறித்து கேட்கக்கூடிய மற்றும் போதுமான எச்சரிக்கையை வழங்க வேண்டும்.\n- இருப்பினும், ஒரு மொட்டார் வாகனம் நெடுஞ்சாலையில் நிலையாக இருக்கும்போது, விபத்தைத் தடுக்கும் அல்லது வாகனம் அல்லது அதில் பயணிப்பவர்களின் பாதுகாப்பை உறுதி செய்வதற்காக தவிர, அந்த வாகனத்தில் பொருத்தப்பட்டுள்ள எந்த எச்சரிக்கை கருவியும் ஒலிக்கக்கூடாது.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 16,
+    "title": {
+      "en": "Excessive Emission of Smoke",
+      "si": "අධික ලෙස දුම් පිටවීම",
+      "ta": "அதிகப்படியான புகை வெளியீடு"
+    },
+    "description": {
+      "en": "- Prohibition on operating vehicles that emit excessive smoke, fumes, or other pollutants beyond prescribed limits. The Department of Motor Traffic has initiated measures to blacklist vehicles that violate emission standards, emphasizing the importance of environmental conservation.\n- If a vehicle is observed emitting excessive smoke, a maintenance order will be issued to the vehicle owner. If the issue is not addressed, a prohibition order will be placed on the vehicle.\n\n**Fine Amount: Rs 1000**",
+      "si": "- නියමිත සීමාවන් ඉක්මවා අධික ලෙස දුම්, දුම් හෝ වෙනත් දූෂක නිකුත් කරන වාහන ධාවනය කිරීම තහනම් කිරීම. පරිසර සංරක්ෂණයේ වැදගත්කම අවධාරණය කරමින්, විෂ්ෂෝධන ප්‍රමිතීන් උල්ලංඝනය කරන වාහන අසාදු ලැයිස්තුගත කිරීමට මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව පියවර ගෙන ඇත.\n- වාහනයක් අධික ලෙස දුම් පිට කරන බව නිරීක්ෂණය වුවහොත්, වාහන හිමිකරුට නඩත්තු නිලයෝගයක් නිකුත් කරනු ඇත. ගැටළුව විසඳා නොගත්හොත්, වාහනයට තහනම් නිලයෝගයක් නිකුත් කරනු ඇත.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- பரிந்துரைக்கப்பட்ட வரம்புகளை மீறி அதிகப்படியான புகை, புகை அல்லது பிற மாசுபடுத்திகளை வெளியிடும் வாகனங்களை இயக்க தடை. சுற்றுச்சூழல் பாதுகாப்பின் முக்கியத்துவத்தை வலியுறுத்தி, மாசு உமிழ்வு தரநிலைகளை மீறும் வாகனங்களை கருப்பு பட்டியலில் சேர்க்க சாலை போக்குவரத்து துறை நடவடிக்கைகள் எடுத்துள்ளது.\n- ஒரு வாகனம் அதிகப்படியான புகை வெளியிடுவதை கண்டறிந்தால், வாகன உரிமையாளருக்கு பராமரிப்பு உத்தரவு வழங்கப்படும். பிரச்சினை தீர்க்கப்படாவிட்டால், வாகனத்திற்கு தடை உத்தரவு பிறப்பிக்கப்படும்.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 17,
+    "title": {
+      "en": "Riding on Running Boards",
+      "si": "ධාවන පුවරු මත පැදීම",
+      "ta": "ஓடும் பலகையில் சவாரி செய்தல்"
+    },
+    "description": {
+      "en": "- The driver of any motor vehicle, the conductor, shall not permit any person to ride, and no person shall ride, on the running boards, wings or fenders or on the outside of the motor vehicle except on a properly constructed seat or except for the purpose testing the vehicle during or after repairs.\n\n**Fine Amount: Rs 500**",
+      "si": "- ඕනෑම මෝටර් රථයක රියදුරු, කොන්දොස්තර, කිසිදු පුද්ගලයෙකුට රිය පැදවීමට ඉඩ නොදිය යුතු අතර, නිසි ලෙස ඉදිකරන ලද ආසනයක් මත හැර හෝ අලුත්වැඩියා කිරීමේදී හෝ පසුව වාහනය පරීක්ෂා කිරීමේ අරමුණින් හැර, ධාවන පුවරු, පියපත් හෝ ෆෙන්ඩර් මත හෝ මෝටර් රථයේ පිටත කිසිදු පුද්ගලයෙකු රිය පැදවිය යුතු නැත.\n\n**දඩ මුදල: රු. 500**",
+      "ta": "- எந்தவொரு மொட்டார் வாகனத்தின் ஓட்டுநர், நடத்துனர், யாரையும் சவாரி செய்ய அனுமதிக்கக் கூடாது, மேலும் யாரும் ஓடும் பலகைகள், இறக்கைகள் அல்லது ஃபெண்டர்கள் அல்லது மொட்டார் வாகனத்தின் வெளிப்புறத்தில் சவாரி செய்யக்கூடாது, சரியாக கட்டப்பட்ட இருக்கையில் தவிர அல்லது பழுதுபார்க்கும் போது அல்லது அதற்குப் பிறகு வாகனத்தை சோதிக்கும் நோக்கத்திற்காக தவிர.\n\n**அபராதத் தொகை: ரூ. 500**"
+    },
+    "fine_amount": 500
+  },
+  {
+    "rule_number": 18,
+    "title": {
+      "en": "Restriction on No of Persons in front Seats of Motor Vehicle",
+      "si": "මෝටර් රථ වාහනයක ඉදිරිපස ආසනවල පුද්ගලයින් සංඛ්‍යාව සීමා කිරීම",
+      "ta": "மொட்டார் வாகனத்தின் முன் இருக்கைகளில் நபர்களின் எண்ணிக்கைக்கு கட்டுப்பாடு"
+    },
+    "description": {
+      "en": "- The driver of a hiring car on a highway or the owner or driver of a private car on a highway shall not cause or permit more than two persons in addition to the driver to ride in the front seat or seats of the car.\n- The driver of a motor cycle which has no side-car attached thereto shall not carry more than one person on the cycle when it is used on a highway, and such person shall not be carried otherwise than sitting astride the cycle on a seat securely fixed thereto behind the driver's seat.\n\n**Fine Amount: Rs 1000**",
+      "si": "- අධිවේගී මාර්ගයක කුලියට ගන්නා මෝටර් රථයක රියදුරු හෝ අධිවේගී මාර්ගයක පුද්ගලික මෝටර් රථයක හිමිකරු හෝ රියදුරු විසින් රියදුරුට අමතරව දෙදෙනාට වඩා මෝටර් රථයේ ඉදිරි ආසනවල හෝ ආසනවල ගමන් කිරීමට ඉඩ නොදිය යුතුය.\n- අතුරු මෝටර් රථයක් සවි කර නොමැති යතුරුපැදියක රියදුරු අධිවේගී මාර්ගයක භාවිතා කරන විට එක් අයෙකුට වඩා රැගෙන නොයුතු අතර, එවැනි පුද්ගලයෙකු රියදුරු අසුන පිටුපස ආරක්ෂිතව සවි කර ඇති ආසනයක යතුරුපැදිය මත වාඩි වී සිටීම හැර වෙනත් ආකාරයකින් රැගෙන නොයුතුය.\n\n**දඩ මුදල: රු. 1000**",
+      "ta": "- நெடுஞ்சாலையில் வாடகைக்கு எடுக்கும் காரின் ஓட்டுநர் அல்லது நெடுஞ்சாலையில் ஒரு தனியார் காரின் உரிமையாளர் அல்லது ஓட்டுநர், ஓட்டுநரைத் தவிர இரண்டு பேருக்கு மேல் காரின் முன் இருக்கை அல்லது இருக்கைகளில் சவாரி செய்ய அனுமதிக்கக் கூடாது.\n- பக்கவாட்டுக் காருடன் இல்லாத மொட்டார் சைக்கிளின் ஓட்டுநர், நெடுஞ்சாலையில் பயன்படுத்தும் போது ஒன்றுக்கு மேல் நபரை சைக்கிளில் ஏற்றிச் செல்லக்கூடாது, மேலும் அத்தகைய நபர் ஓட்டுநர் இருக்கையின் பின்னால் பாதுகாப்பாக பொருத்தப்பட்ட இருக்கையில் சைக்கிளின் மேல் இருபக்கமாக அமர்ந்திருக்க வேண்டும்.\n\n**அபராதத் தொகை: ரூ. 1000**"
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 19,
+    "title": {
+      "en": "Non-use of Seat Belts",
+      "si": "ආසන පටි භාවිතා නොකිරීම",
+      "ta": "இருக்கை பெல்டை பயன்படுத்தாமல் இருத்தல்"
+    },
+    "description": {
+      "en": "- The driver of a hiring car on a highway or the owner or driver of a private car on a highway shall not cause or permit more than two persons in addition to the driver to ride in the front seat or seats of the car.\n- Mandatory to use of seat belts by drivers and front-seat passengers in certain vehicle categories. Amendments to this section have introduced spot fines for non-compliance, highlighting the critical role of seat belts in enhancing occupant safety.\n- Fine Amount = Rs 1000/=",
+      "si": "- අධිවේගී මාර්ගයක කුලියට ගන්නා මෝටර් රථයක රියදුරු හෝ අධිවේගී මාර්ගයක පුද්ගලික මෝටර් රථයක හිමිකරු හෝ රියදුරු විසින් රියදුරුට අමතරව දෙදෙනාට වඩා මෝටර් රථයේ ඉදිරි ආසනවල හෝ ආසනවල ගමන් කිරීමට ඉඩ නොදිය යුතුය.\n- ඇතැම් වාහන කාණ්ඩවල රියදුරන් සහ ඉදිරි ආසන මගීන් විසින් ආසන පටි භාවිතා කිරීම අනිවාර්ය වේ. මෙම වගන්තියට සංශෝධන මගින් අනුකූල නොවීම සඳහා ස්ථානීය දඩ නියම කර ඇති අතර, මගීන්ගේ ආරක්ෂාව වැඩිදියුණු කිරීමේදී ආසන පටිවල තීරණාත්මක කාර්යභාරය ඉස්මතු කරයි.\n- දඩ මුදල = රු. 1000/=",
+      "ta": "- நெடுஞ்சாலையில் வாடகைக்கு எடுக்கும் காரின் ஓட்டுநர் அல்லது நெடுஞ்சாலையில் ஒரு தனியார் காரின் உரிமையாளர் அல்லது ஓட்டுநர், ஓட்டுநரைத் தவிர இரண்டு பேருக்கு மேல் காரின் முன் இருக்கை அல்லது இருக்கைகளில் பயணிக்க அனுமதிக்கக் கூடாது.\n- சில வாகன வகைகளில் ஓட்டுநர்களும் முன் இருக்கை பயணிகளும் இருக்கை பெல்ட்களை பயன்படுத்துவது கட்டாயமாகும். இந்தப் பிரிவில் திருத்தங்கள் விதிமீறலுக்கான ஸ்பாட் அபராதங்களை அறிமுகப்படுத்தியுள்ளன, இது பயணிகளின் பாதுகாப்பை மேம்படுத்துவதில் இருக்கை பெல்ட்களின் முக்கிய பங்கைக் காட்டுகிறது.\n- அபராதத் தொகை = ரூ. 1000/="
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 20,
+    "title": {
+      "en": "Not wearing Protective Helmets",
+      "si": "ආරක්ෂිත හිස්වැසුම් පැළඳ නොසිටීම",
+      "ta": "பாதுகாப்பு தலைக்கவசங்களை அணியாதது"
+    },
+    "description": {
+      "en": "- Requires motorcycle riders and pillion passengers to wear protective helmets that meet approved standards. Recent regulations have been enacted to specify the types of helmets permissible, aiming to reduce head injuries in the event of accidents.\n- Fine Amount = Rs 1000/=",
+      "si": "- යතුරුපැදි ධාවකයින් සහ පසුපස ගමන් කරන්නන් අනුමත ප්‍රමිතීන්ට අනුකූල ආරක්ෂිත හිස්වැසුම් පැළඳීම අවශ්‍ය වේ. අනතුරු වලදී හිසට සිදුවන තුවාල අවම කිරීම අරමුණු කරගනිමින් අවසර ලත් හිස්වැසුම් වර්ග නියම කිරීම සඳහා මෑත කාලීන ව්‍යවස්ථා පනවා ඇත.\n- දඩ මුදල = රු. 1000/=",
+      "ta": "- மொட்டார் சைக்கிள் ஓட்டுநர்கள் மற்றும் பின்னோல் அமர்ந்திருப்பவர்கள் அங்கீகரிக்கப்பட்ட தரநிலைகளை பூர்த்தி செய்யும் பாதுகாப்பு தலைக்கவசங்களை அணிய வேண்டும். விபத்துக்களின் போது தலையில் ஏற்படும் காயங்களை குறைக்கும் நோக்கில், அனுமதிக்கப்பட்ட தலைக்கவச வகைகளை குறிப்பிட சமீபத்திய விதிமுறைகள் இயற்றப்பட்டுள்ளன.\n- அபராதத் தொகை = ரூ. 1000/="
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 21,
+    "title": {
+      "en": "Prohibition To Distribute Advertisements From A Vehicle In Motion",
+      "si": "ධාවනය වන වාහනයකින් දැන්වීම් බෙදා හැරීම තහනම් කිරීම",
+      "ta": "இயங்கும் வாகனத்திலிருந்து விளம்பரங்களை விநியோகிக்க தடை"
+    },
+    "description": {
+      "en": "- The driver of a motor vehicle shall not permit any person to distribute, and no person who is in the motor vehicle shall distribute, any advertisement, leaflet or handbill from the vehicle while it is in motion on a highway.\n- Fine Amount = Rs 1000/=",
+      "si": "- මෝටර් රථයක රියදුරු කිසිදු පුද්ගලයෙකුට මෙවැනි කටයුතු කිරීමට අවසර නොදිය යුතු අතර, මෝටර් රථයේ සිටින කිසිදු පුද්ගලයෙකු අධිවේගී මාර්ගයක ධාවනය වන අතරතුර වාහනයේ ඇති කිසිදු දැන්වීමක්, පත්‍රිකාවක් හෝ අත්පත්‍රිකාවක් බෙදා නොහැරිය යුතුය.\n- දඩ මුදල = රු. 1000/=",
+      "ta": "- ஒரு மொட்டார் வாகனத்தின் ஓட்டுநர் எந்த நபரையும் விநியோகிக்க அனுமதிக்கக் கூடாது, மேலும் மொட்டார் வாகனத்தில் இருக்கும் எந்த நபரும் நெடுஞ்சாலையில் இயங்கும் போது வாகனத்திலிருந்து எந்த விளம்பரம், துண்டுப்பிரசுரம் அல்லது துண்டுப்பிரசுரத்தையும் விநியோகிக்கக் கூடாது.\n- அபராதத் தொகை = ரூ. 1000/="
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 22,
+    "title": {
+      "en": "Excessive use -f noise from a Vehicle",
+      "si": "වාහනයකින් අධික ලෙස ශබ්දය භාවිතා කිරීම",
+      "ta": "ஒரு வாகனத்திலிருந்து அதிகப்படியான சத்தத்தைப் பயன்படுத்துதல்"
+    },
+    "description": {
+      "en": "- No whistle or horn, other than a horn sounding a single note, shall be sounded on any motor vehicle on any highway within the limits of an urban area.\n{ Fine Amount = Rs 1000/=",
+      "si": "- නාගරික ප්‍රදේශයක සීමාව තුළ ඇති ඕනෑම අධිවේගී මාර්ගයක ඕනෑම මෝටර් රථයක තනි ස්වරයක් නිකුත් කරන නළාවක් හැර වෙනත් කිසිදු විසිල් හෝ නළාවක් නාද නොකළ යුතුය.\n{ දඩ මුදල = රු. 1000/=",
+      "ta": "- நகர்ப்புற எல்லைக்குள் உள்ள எந்த நெடுஞ்சாலையிலும் உள்ள எந்த மொட்டார் வாகனத்திலும், ஒரே ஒலி எழுப்பும் ஹாரனைத் தவிர வேறு எந்த விசில் அல்லது ஹாரனையும் ஒலிக்கக் கூடாது.\n{ அபராதத் தொகை = ரூ. 1000/="
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 23,
+    "title": {
+      "en": "Failure to Obey Direction and Signals of Police Officers",
+      "si": "පොලිස් නිලධාරීන්ගේ උපදෙස් සහ සංඥා පිළිපැදීමට අපොහොසත් වීම",
+      "ta": "காவல்துறை அதிகாரிகளின் வழிகாட்டுதல் மற்றும் சிக்னல்களுக்கு கீழ்ப்படியத் தவறுதல்"
+    },
+    "description": {
+      "en": "- The driver of a motor vehicle shall obey all verbal directions or signals, given by a police officer in the execution of his duty, to stop or reverse the car or to make it slow down or turn back or to pass on such side or to keep to such line of traffic as may be indicated by the police officer.\n- Whenever a request to stop any motor vehicle on a highway is made, either verbally or by raising the hand as a signal, by a person in command of a body of troops or having charge of any animal, the driver shall immediately stop the car and keep it stationary so long as may be reasonably necessary.\n- Fine Amount = Rs 2000/=",
+      "si": "- මෝටර් රථයක රියදුරු තම රාජකාරිය ඉටු කිරීමේදී පොලිස් නිලධාරියෙකු විසින් ලබාදෙන සියලුම වාචික උපදෙස් හෝ සංඥා වලට කීකරු විය යුතුය, මෝටර් රථය නැවැත්වීමට හෝ ආපසු හැරවීමට හෝ එය මන්දගාමී කිරීමට හෝ ආපසු හැරවීමට හෝ පොලිස් නිලධාරියා විසින් ඉඟි කරන එවැනි තීරණයකට අනුව රථවාහන මාර්ගයට තබා ගැනීමට.\n- කණ්ඩායමක අණදෙන නිලධාරියෙකු හෝ ඕනෑම සත්වයක් භාරව සිටින පුද්ගලයෙකු විසින් අධිවේගී මාර්ගයක ඕනෑම මෝටර් රථයක් නැවැත්වීමට වාචිකව හෝ සංඥාවක් ලෙස අත එසීමකින් ඉල්ලීමක් කරන විට, රියදුරු වහාම මෝටර් රථය නවතා සාධාරණ ලෙස අවශ්‍ය තාක් එය ස්ථාවරව තබා ගත යුතුය.\n- දඩ මුදල = රු. 2000/=",
+      "ta": "- ஒரு மொட்டார் வாகன ஓட்டுநர், தனது கடமையைச் செய்யும் போது காவல்துறை அதிகாரியால் வழங்கப்படும் அனைத்து வாய்மொழி வழிகாட்டுதல்களும் அல்லது சிக்னல்களுக்கும் கீழ்ப்படைய வேண்டும், வாகனத்தை நிறுத்தவோ அல்லது பின்னோக்கிச் செல்லவோ அல்லது மெதுவாகச் செல்லவோ அல்லது திரும்பிச் செல்லவோ அல்லது காவல்துறை அதிகாரி காட்டும் அந்த பக்கத்தில் செல்லவோ அல்லது அந்த போக்குவரத்து வரிசையில் செல்லவோ வேண்டும்.\n- ஒரு நெடுஞ்சாலையில் உள்ள எந்த மொட்டார் வாகனத்தையும் நிறுத்துமாறு கோரல், வாய்மொழியாகவோ அல்லது சைகையாக கையை உயர்த்துவதன் மூலமாகவோ, படை குழுவின் கட்டுப்பாட்டில் உள்ள நபர் அல்லது எந்தவொரு விலங்கின் பொறுப்பில் உள்ள நபர் மூலம் செய்யப்படும்போது, ஓட்டுநர் உடனடியாக வாகனத்தை நிறுத்தி, நியாயமான அளவு அவசியமான நேரம் வரை அதை நிலையாக வைத்திருக்க வேண்டும்.\n- அபராதத் தொகை = ரூ. 2000/="
+    },
+    "fine_amount": 2000
+  },
+  {
+    "rule_number": 24,
+    "title": {
+      "en": "Non Compliance to Road Signs",
+      "si": "මාර්ග සංඥා වලට අනුකූල නොවීම",
+      "ta": "சாலை அடையாளங்களை மீறுதல்"
+    },
+    "description": {
+      "en": "- The driver of a motor vehicle shall obey all traffic signs or notices erected or exhibited and intended to apply to all motor vehicles of the class or description to which that motor vehicle belongs.\n- Fine Amount = Rs 1000/=",
+      "si": "- මෝටර් රථයක රියදුරු එම මෝටර් රථය අයත් වන පන්තියේ හෝ විස්තරයේ සියලුම මෝටර් වාහන සඳහා සවි කර ඇති හෝ ප්‍රදර්ශනය කර ඇති සියලුම මාර්ග සංඥා හෝ දැන්වීම් වලට කීකරු විය යුතුය.\n- දඩ මුදල = රු. 1000/=",
+      "ta": "- ஒரு மொட்டார் வாகனத்தின் ஓட்டுநர், அந்த மொட்டார் வாகனம் சேர்ந்த வகுப்பு அல்லது விளக்கத்திற்குரிய அனைத்து மொட்டார் வாகனங்களுக்கும் பொருந்தும் அனைத்து போக்குவரத்து அடையாளங்கள் அல்லது அறிவிப்புகளுக்கும் கீழ்ப்படைய வேண்டும்.\n- அபராதத் தொகை = ரூ. 1000/="
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 25,
+    "title": {
+      "en": "Failure To Take Precautions When Discharging Fuel Into Tank",
+      "si": "ටැංකියට ඉන්ධන මුදා හැරීමේදී පූර්වාරක්ෂාවන් ගැනීමට අමතක වීම",
+      "ta": "எரிபொருள் டாங்கியில் நிரப்பும் போது முன்னெச்சரிக்கைகள் எடுக்காதது"
+    },
+    "description": {
+      "en": "- The engine of a motor vehicle shall be stopped and any light other than an electric light in or on the vehicle shall be extinguished before any petrol or other fuel is poured or discharged into the tank of the vehicle or into any receptacle in or on the vehicle.\n, No person shall smoke, or carry a lighted pipe, cigar or cigarette, or light a match, in any motor vehicle or within three yards of any motor vehicle or petrol pump, while any petrol or other fuel is being poured or discharged into the tank of the vehicle or into any receptacle in or on the vehicle.\n, Fine Amount = Rs 1000/=",
+      "si": "- වාහනයක එන්ජිම නතර කළ යුතු අතර වාහනයේ ටැංකියට හෝ වාහනය තුළ හෝ එහි ඇති ඕනෑම භාජනයකට පෙට්‍රල් හෝ වෙනත් ඉන්ධන වත් කිරීමට හෝ මුදා හැරීමට පෙර වාහනයේ හෝ එහි ඇති විදුලි ආලෝකයක් හැර ඕනෑම ආලෝකයක් නිවා දැමිය යුතුය.\n, වාහනයේ ටැංකියට හෝ වාහනය තුළ හෝ එහි ඇති ඕනෑම භාජනයකට පෙට්‍රල් හෝ වෙනත් ඉන්ධන වත් කරන විට හෝ මුදා හැරෙන විට, කිසිදු පුද්ගලයෙකු ඕනෑම මෝටර් රථයක හෝ පෙට්‍රල් පම්පයක යාර තුනක් ඇතුළත දුම් පානය කිරීම, දැල්වූ පයිප්පයක්, සුරුට්ටුවක් හෝ සිගරට් එකක් රැගෙන යාම හෝ ගිනිකූරක් දැල්වීම නොකළ යුතුය.\n, දඩ මුදල = රු. 1000/=",
+      "ta": "- வாகனத்தின் இயந்திரம் நிறுத்தப்பட வேண்டும், மேலும் வாகனத்தில் உள்ள அல்லது அதன் மீது உள்ள எந்தவொரு விளக்கையும், மின்விளக்கைத் தவிர, வாகனத்தின் டாங்கியில் அல்லது அதன் மீது உள்ள எந்தவொரு பாத்திரத்திலும் பெட்ரோல் அல்லது பிற எரிபொருள் ஊற்றப்படுவதற்கு முன் அணைக்க வேண்டும்.\n, எந்த நபரும் எந்த மொட்டார் வாகனத்திலும் அல்லது பெட்ரோல் பம்பிலிருந்து மூன்று யார்டுகளுக்குள் புகைபிடிக்கவோ, பற்றவைக்கப்பட்ட குழாய், சுருட்டு அல்லது சிகரெட் எடுத்துச் செல்லவோ அல்லது தீப்பெட்டி பற்றவைக்கவோ கூடாது, பெட்ரோல் அல்லது பிற எரிபொருள் வாகனத்தின் டாங்கியில் அல்லது அதன் மீது உள்ள எந்த பாத்திரத்திலும் ஊற்றப்படும்போது.\n, அபராதத் தொகை = ரூ. 1000/="
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 26,
+    "title": {
+      "en": "Halting or Parking Motor Vehicles on a Road",
+      "si": "මාර්ගයක මෝටර් වාහන නැවැත්වීම හෝ නැවැත්වීම",
+      "ta": "சாலையில் மொட்டார் வாகனங்களை நிறுத்துதல்"
+    },
+    "description": {
+      "en": "- Where the halting or parking of motor vehicles on any highway or part of a highway is prohibited by a notice exhibited, the driver of a motor vehicle shall not allow the vehicle to stand on that highway or part of a highway except for such length of time as may be necessary.\n- On any highway or part of a highway, the driver of a motor vehicle shall not allow that vehicle to stand in such position or for such length of time as to obstruct or be likely to obstruct traffic.\n- Fine Amount = Rs 1000/=",
+      "si": "- කිසියම් අධිවේගී මාර්ගයක හෝ අධිවේගී මාර්ගයක කොටසක මෝටර් වාහන නැවැත්වීම හෝ නැවැත්වීම දැන්වීමක් මගින් තහනම් කර ඇති විට, අවශ්‍ය විය හැකි තරම් කාලයක් හැර, මෝටර් රථ රියදුරු එම අධිවේගී මාර්ගයේ හෝ අධිවේගී මාර්ගයේ කොටසක වාහනය නතර කිරීමට ඉඩ නොදිය යුතුය.\n- ඕනෑම අධිවේගී මාර්ගයක හෝ අධිවේගී මාර්ගයක කොටසක මෝටර් රථ රියදුරු එම වාහනය ගමනාගමනයට බාධා කරන හෝ බාධා කිරීමට ඉඩ ඇති ස්ථානයක හෝ දිගු කාලයක් රැඳී සිටීමට ඉඩ නොදිය යුතුය.\n- දඩ මුදල = රු. 1000/=",
+      "ta": "- எந்த ஒரு நெடுஞ்சாலையிலும் அல்லது அதன் ஒரு பகுதியில், நிறுத்தம் தடைசெய்யப்பட்டிருந்தால், ஓட்டுநர் அவசியமான காலத்திற்கு தவிர வாகனத்தை நிறுத்த அனுமதிக்கக் கூடாது.\n- எந்த ஒரு நெடுஞ்சாலையிலும் அல்லது அதன் ஒரு பகுதியில், ஓட்டுநர் வாகனத்தை போக்குவரத்துக்கு தடையாக அல்லது தடையாக இருக்கக்கூடிய வகையில் நிறுத்த அனுமதிக்கக் கூடாது.\n- அபராதத் தொகை = ரூ. 1000/="
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 27,
+    "title": {
+      "en": "Non-use of Precautions when Halting or Left Unattended or Disabled in a Road",
+      "si": "මාර්ගයක නතර කරන විට හෝ අවධානමෙන් තබන විට හෝ ආබාධිත වූ විට පූර්වාරක්ෂාවන් භාවිතා නොකිරීම",
+      "ta": "சாலையில் நிறுத்தும்போது அல்லது கவனிக்கப்படாமல் விடும்போது அல்லது முடக்கப்படும்போது முன்னெச்சரிக்கைகள் எடுக்காதது"
+    },
+    "description": {
+      "en": "- The driver of a motor vehicle shall, whenever the vehicle is halted or parked on a highway, place the vehicle as near as possible to the edge of the highway or in such position or such manner as may be indicated by a traffic sign or notice exhibited on or near the highway or by a police officer on duty.\n- The driver of a motor vehicle shall, whenever it becomes necessary to leave the car unattended while it is halted or parked on a highway, stop the engine before he so leaves the vehicle and take due precautions against its moving or being moved in his absence.\n- When any motor vehicle left on any highway is disabled by an accident, mechanical derangement or tyre failure, the driver of the vehicle shall affix lamps on the front and on the rear of the vehicle, on the right or off side thereof to indicate clearly the position of vehicle on highway.\n- Fine Amount = Rs 2000/=",
+      "si": "- මෝටර් රථයක රියදුරු, අධිවේගී මාර්ගයක වාහනය නවතා ඇති විට හෝ නවතා ඇති විට, අධිවේගී මාර්ගයේ මකළවරට හැකි තරම් ආසන්නව හෝ අධිවේගී මාර්ගයේ හෝ ඒ අසල හෝ රාජකාරියේ සිටින පොලිස් නිලධාරියෙකු විසින් ප්‍රදර්ශනය කර ඇති රථවාහන ලකුණකින් හෝ දැන්වීමකින් නියම කළ හැකි ස්ථානයක හෝ ආකාරයකින් වාහනය තැබිය යුතුය.\n- මෝටර් රථයක රියදුරු, අධිවේගී මාර්ගයක නවතා ඇති විට හෝ නවතා ඇති විට මෝටර් රථය මනාසැලකිල්ලෙන් තැබීමට අවශ්‍ය වූ විට, ඔහු එමස් කිරීමට පෙර එන්ජිම නවතා, මනා සැලකිල්ලෙන් එය චලනය වීම හෝ චලනය වීමේදී නිසි පූර්වාරක්ෂාවන් ගත යුතුය.\n- අනතුරක්, යාන්ත්‍රික අක්‍රියතාවයක් හෝ ටයර් ක්‍රියා විරහිත වීමෙන් ආබාධිත වූ ඕනෑම මෝටර් රථයක්, වාහනයේ ඉදිරිපස සහ පිටුපස, එහි දකුණු හෝ පිටත පැත්තේ ලාම්පු සවි කළ යුතුය.\n- දඩ මුදල = රු. 2000/=",
+      "ta": "- ஒரு மொட்டார் வாகனத்தின் ஓட்டுநர், வாகனம் நெடுஞ்சாலையில் நிறுத்தப்படும்போது அல்லது நிறுத்தப்படும்போது, நெடுஞ்சாலையின் விளிம்பிற்கு முடிந்தவரை அருகில் அல்லது நெடுஞ்சாலையில் அல்லது அதற்கு அருகில் அல்லது பணியில் உள்ள காவல்துறை அதிகாரியால் காட்டப்படும் போக்குவரத்து அடையாளம் அல்லது அறிவிப்பில் குறிப்பிடப்பட்ட இடத்தில் அல்லது முறையில் வாகனத்தை நிறுத்த வேண்டும்.\n- ஒரு மொட்டார் வாகனத்தின் ஓட்டுநர், நெடுஞ்சாலையில் நிறுத்தப்படும்போது அல்லது நிறுத்தப்படும்போது கவனிக்காமல் விட்டு செல்ல வேண்டிய அவசியம் ஏற்பட்டால், வாகனத்தை விட்டு வெளியேறுவதற்கு முன் இயந்திரத்தை நிறுத்தி, அவர் இல்லாதபோது அது நகர்வதை அல்லது நகர்த்தப்படுவதைத் தடுக்கும் முன்னெச்சரிக்கைகளை எடுக்க வேண்டும்.\n- விபத்து, இயந்திரக் கோளாறு அல்லது டயர் பழுதால் முடக்கப்பட்ட எந்தவொரு மொட்டார் வாகனமும் எந்தவொரு நெடுஞ்சாலையிலும் விடப்பட்டால், வாகனத்தின் முன்புறம் மற்றும் பின்புறம், அதன் வலது அல்லது ஆஃப் பக்கத்தில், நெடுஞ்சாலையில் வாகனத்தின் நிலையைத் தெளிவாகக் காட்ட விளக்குகள் பொருத்த வேண்டும்.\n- அபராதத் தொகை = ரூ. 2000/="
+    },
+    "fine_amount": 2000
+  },
+  {
+    "rule_number": 28,
+    "title": {
+      "en": "Excessive carriage of persons or load of goods in Motor vehicles",
+      "si": "මෝටර් වාහනවල අධික ලෙස පුද්ගලයින් ප්‍රවාහනය කිරීම හෝ භාණ්ඩ පැටවීම",
+      "ta": "மொட்டார் வாகனங்களில் அதிகப்படியான நபர்களை அல்லது சரக்குகளை ஏற்றிச் செல்லுதல்"
+    },
+    "description": {
+      "en": "- Where the number of persons found at any time in a private car on a highway exceeds eight (including the driver thereof), the driver thereof shall be guilty of an offence under this Act.\n- Where the number of persons in a private coach exceeds the maximum number specified in the revenue licence for that coach or where goods other than such goods as may be prescribed or the personal luggage of a person are found, the driver thereof shall be guilty of an offence under Act:\n- Fine Amount = Rs 500/=",
+      "si": "- අධිවේගී මාර්ගයක පුද්ගලික මෝටර් රථයක ඕනෑම අවස්ථාවක පුද්ගලයින් සංඛ්‍යාව අටක් (එහි රියදුරු ඇතුළුව) ඉක්මවන විට, එහි රියදුරු මෙම පනත යටතේ වරදකට වරදකරු වේ.\n- පුද්ගලික මෝටර් රථයක පුද්ගලයින් සංඛ්‍යාව එම මෝටර් රථය සඳහා ආදායම් බලපත්‍රයේ දක්වා ඇති උපරිම සංඛ්‍යාව ඉක්මවා යන විට හෝ නියම කළ භාණ්ඩ හෝ පුද්ගලයෙකුගේ පුද්ගලික ගමන් මලු හැර වෙනත් භාණ්ඩ හමු වූ විට, එහි රියදුරු පනත යටතේ වරදකට වරදකරු වේ.\n- දඩ මුදල = රු. 500/=",
+      "ta": "- ஒரு நெடுஞ்சாலையில் ஒரு தனியார் காரில் எந்த நேரத்திலும் எட்டு பேரை (அதன் ஓட்டுநர் உட்பட) தாண்டினால், அதன் ஓட்டுநர் இந்தச் சட்டத்தின் கீழ் ஒரு குற்றத்திற்கு குற்றவாளி ஆவார்.\n- ஒரு தனியார் வண்டியில் உள்ள பயணிகளின் எண்ணிக்கை அந்த வண்டிக்கான வருவாய் உரிமத்தில் குறிப்பிடப்பட்டுள்ள அதிகபட்ச எண்ணிக்கையை விட அதிகமாக இருந்தால் அல்லது பரிந்துரைக்கப்பட்ட பொருட்கள் அல்லது ஒரு நபரின் தனிப்பட்ட சாமான்களைத் தவிர மற்ற பொருட்கள் கண்டுபிடிக்கப்பட்டால், அதன் ஓட்டுநர் சட்டத்தின் கீழ் ஒரு குற்றத்திற்கு குற்றவாளி ஆவார்:\n- அபராதத் தொகை = ரூ. 500/="
+    },
+    "fine_amount": 500
+  },
+  {
+    "rule_number": 29,
+    "title": {
+      "en": "Carriage Of Passengers In Excess In Buses",
+      "si": "බස් රථවල මගීන් ප්‍රමාණය ඉක්මවා ප්‍රවාහනය කිරීම",
+      "ta": "பேருந்துகளில் அதிகமாக பயணிகளை ஏற்றிச் செல்லுதல்"
+    },
+    "description": {
+      "en": "- Where the number of passengers in an omnibus on a highway exceeds the maximum number specified in the revenue licence for that omnibus, or where goods other than such goods as may be prescribed or the personal luggage of a passenger are found, the conductor of the omnibus shall be guilty of an offence.\n- Fine Amount = Rs 500/=",
+      "si": "- අධිවේගී මාර්ගයක ඔම්නිබස් රථයක මගීන් සංඛ්‍යාව එම ඔම්නිබස් රථය සඳහා ආදායම් බලපත්‍රයේ දක්වා ඇති උපරිම සංඛ්‍යාව ඉක්මවා ගිය විට, හෝ නියම කළ භාණ්ඩ හෝ මගීයෙකුගේ පුද්ගලික ගමන් මලු හැර වෙනත් භාණ්ඩ හමු වූ විට, ඔම්නිබස් රථයේ කොන්දොස්තර වරදකට වරදකරු වේ.\n- දඩ මුදල = රු. 500/=",
+      "ta": "- ஒரு நெடுஞ்சாலையில் உள்ள ஒரு ஆம்னிபஸில் பயணிகளின் எண்ணிக்கை அந்த ஆம்னிபஸுக்கான வருவாய் உரிமத்தில் குறிப்பிடப்பட்டுள்ள அதிகபட்ச எண்ணிக்கையை விட அதிகமாக இருந்தால், அல்லது பரிந்துரைக்கப்பட்ட பொருட்கள் அல்லது ஒரு பயணியின் தனிப்பட்ட சாமான்களைத் தவிர மற்ற பொருட்கள் கண்டுபிடிக்கப்பட்டால், ஆம்னிபஸின் நடத்துனர் ஒரு குற்றத்திற்கு குற்றவாளி ஆவார்.\n- அபராதத் தொகை = ரூ. 500/="
+    },
+    "fine_amount": 500
+  },
+  {
+    "rule_number": 30,
+    "title": {
+      "en": "Excessive Carriage of load of goods on Lorry or Motor Tricycle",
+      "si": "ලොරියක හෝ මෝටර් ත්‍රිලෝචක රථයක අධික ලෙස භාණ්ඩ ප්‍රවාහනය කිරීම",
+      "ta": "லாரி அல்லது மொட்டார் முச்சக்கர வண்டியில் அதிகப்படியான சரக்குகளை ஏற்றிச் செல்லுதல்"
+    },
+    "description": {
+      "en": "- Where the weight of goods found at any time on a lorry on a highway exceeds the maximum load specified on the revenue licence for that lorry, or where the distribution of the load is such as to cause danger, the driver of the lorry shall be guilty of an offence under Act.\n- Fine Amount = Rs 500/=",
+      "si": "- අධිවේගී මාර්ගයක ලොරියක තිබී ඕනෑම අවස්ථාවක වසායාගත් භාණ්ඩවල බර එම ලොරිය සඳහා ආදායම් බලපත්‍රයේ දක්වා ඇති උපරිම බර ඉක්මවා ගිය විට හෝ බර ව්‍යාප්තිය අනතුරක් වන පරිදි සිදු වූ විට, ලොරියේ රියදුරු පනත යටතේ වරදකට වරදකරු විය යුතුය.\n- දඩ මුදල = රු. 500/=",
+      "ta": "- நெடுஞ்சாலையில் உள்ள ஒரு லாரியில் எந்த நேரத்திலும் காணப்படும் பொருட்களின் எடை, அந்த லாரிக்கான வருவாய் உரிமத்தில் குறிப்பிடப்பட்டுள்ள அதிகபட்ச சுமையை விட அதிகமாக இருந்தால், அல்லது சுமை விநியோகம் ஆபத்தை ஏற்படுத்தும் வகையில் இருந்தால், லாரியின் ஓட்டுநர் சட்டத்தின் கீழ் ஒரு குற்றத்திற்கு குற்றவாளி ஆவார்.\n- அபராதத் தொகை = ரூ. 500/="
+    },
+    "fine_amount": 500
+  },
+  {
+    "rule_number": 31,
+    "title": {
+      "en": "Excessive carriage of persons in a Lorry",
+      "si": "ලෙොරියක අධික ලෙස පුද්ගෙයින් ප්‍රවොහනය කිරීම",
+      "ta": "ஒரு லாரியில் அதிகப்படியான நபர்களை ஏற்றிச் செல்லுதல்"
+    },
+    "description": {
+      "en": "- Not more than 3 persons shall be carried on a lorry in addition to the driver thereof, and no person shall be so carried on a lorry unless he is\n- a)the owner or hirer of the lorry \nb)the owner or hirer of goods carried on the lorry \n(c) the servant or agent of any one of the persons described above\n- Fine Amount = Rs 1000/=",
+      "si": "- ලොරියක රියදුරුට අමතරව පුද්ගලයින් 3 ලෙලෙකුට වඩො ප්‍රවොහෙය ලෙොකළ යුතු අතර, ඔහු\n- අ) ලලොරිලේ හිමිකරු ලහෝ කුලියට ගත් තැෙැත්තො\n- ආ) ලලොරිලේ රැලගෙ යෙ භොණ්ඩවල හිමිකරු ලහෝ කුලියට ගත් තැෙැත්තො \n- ඇ) ඉහත විස්තර කර ඇති ඕෙෑම අලයකුලේ ලස්වකයො ලහෝ නිලයෝජිතයො ලෙොලේ ෙම්, කිසිදු පුද්ගලලයකු ලලොරියක එලස් ප‍්‍රවොහෙය ලෙොකළ යුතුය.\n- ෙඩ මුෙල = රු. 1000/=",
+      "ta": "- ஒரு லாரியில் அதன் ஓட்டுநரை தவிர 3 பேருக்கு மேல் ஏற்றிச் செல்லக்கூடாது, மேலும் அவர்\n- அ) லாரியின் உரிமையாளர் அல்லது வாடகைக்கு எடுப்பவர் \nஆ) லாரியில் கொண்டு செல்லப்படும் சரக்குகளின் உரிமையாளர் அல்லது வாடகைக்கு எடுப்பவர் \n(இ) மேலே விவரிக்கப்பட்ட நபர்களில் ஒருவரின் பணியாளர் அல்லது முகவர் இல்லாவிட்டால் பிற எந்த நபரையும் ஏற்றிச் செல்லக்கூடாது..\n- அபராதத் சதாரை = ரூ. 1000/="
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 32,
+    "title": {
+      "en": "Violation of Regulations on Motor Vehicles",
+      "si": "මමෝටර් වාහන මෙගුලාසි උල්ලංඝනය කිරීම",
+      "ta": "மமோட்டோர் வோகனங்கள் மீதோன விதிமுறைகறை மீறுதல்"
+    },
+    "description": {
+      "en": "- Covers general violations of motor vehicle regulations. This encompasses a broad range of infractions, including unauthorized vehicle modifications, failure to adhere to safety standards, and other breaches of the Motor Traffic Act..\n-   Fine amount = Rs. 1000/=",
+      "si": "- මමෝටර් වාහන මෙගුලාසි වල සාමානය උල්ලංඝනයන් ආවෙණය කෙයි. මමයට අනවසෙ වාහන මවනස් කිරීම්, ආෙක්ෂක ප්‍රමිතීන් පිළිපැදීමට අමපාමහාසත් වීම සහ මමෝටර් ෙථ ප්‍රවාහන පනමත් අමනකුත් උල්ලංඝනයන් ඇතුළු පූළුල් පොසයක උල්ලංඝනයන් ඇතුළත් මේ.\n- දඩ මුදල = රු. 1000/=",
+      "ta": "- ம ோட்டோர் வோகன விதிமுறைகளின் ப ோதுவோன  ீ ைல்கறள உள்ளடக்கியது. ... அங்கீகரிக்கப் டோத வோகன  ோற்ைங்கள்,  ோதுகோப்பு தரங்கறள கறட ிடிக்கத் தவறுதல்  ற்றும் ம ோட்டோர் ம ோக்குவரத்து சட்டத்தின்  ிை  ீ ைல்கள் உள்ளிட்ட  ரந்த அளவிலோன  ீ ைல்கள் இதில் அடங்கும்.\n- அ ரோதத் பதோறக = ரூ. 1000/="
+    },
+    "fine_amount": 1000
+  },
+  {
+    "rule_number": 33,
+    "title": {
+      "en": "Failure to carry the Emission Certificate or the Fitness Certificate",
+      "si": "විම ෝචන සහතිකය මහෝ මයෝග්‍යතා සහතිකය රැමග්‍න යා ට අම ාමහාසත් වී",
+      "ta": "உமிழ்வுச் சான்றிதழ் அல்லது உடற்தகுதிச் சான்றிதழை எடுத்துச் சசல்லத் தவறுதல்"
+    },
+    "description": {
+      "en": "- Mandatory to obtain and carry valid Emission Certificates and Certificates of Fitness. These documents confirm that the vehicle meets environmental and safety standards. Operating a vehicle without these certificates, or failing to produce them when requested by authorities, is an offence.\n- Fine Amount = Rs 500/=",
+      "si": "- වලංගු විම ෝචන සහතික සහ ම ෝග්‍යතා සහතික ලබා ග්‍ැනී  සහ රැමග්‍න  ා  අනිවාර්  මේ. ම   මේඛන  ගින් වාහන  පාරිසරික හා ආරක්ෂක ප්‍රමිතීන්ට අනුකූල බව සනාථ කරයි. ම   සහතික මනා ැතිව වාහන ක් ක‍්‍රියාවත් කිරිම මහෝ බලධාරීන් ඉේලා සිටින විට ඒවා ඉදිරිපත් කිරී ට අමපාමහාසත් වී  වරදකි.\n- දඩ මුදල = රු. 500/=",
+      "ta": "- செல்லுபடியாகும் உமிழ்வுச் ொன்றிதழ்கள் மற்றும் உடற்தகுதிச் ொன்றிதழ்களைப் சபறுவதும் எடுத்துச் செல்வதும் கட்டாயமாகும். இந்த ஆவணங்கள் வாகனம் சுற்றுச்சூழல் மற்றும் பாதுகாப்புத் தரங்களைப் பூர்த்தி செய்கிறது என்பளத உறுதிப்படுத்துகின்றன. இந்தச் ொன்றிதழ்கள் இல்லாமல் வாகனத்ளத இயக்குவது அல்லது அதிகாரிகள் ககாரும்கபாது அவற்ளறக் காட்டத் தவறுவது ஒரு குற்றமாகும்.\n- அபராதத் சதாளக = ரூ. 500/="
+    },
+    "fine_amount": 500
+  },
+  {
+    "rule_number": 34,
+    "title": {
+      "en": "Driving After The Consumption Of Alcohol Or Drugs",
+      "si": "මත්පැන් හ ෝ මත්රව්‍ය පානය කිරීහමන් පසු රිය පැදවීම",
+      "ta": "மது அல்லது பபோதைப்பபோருள் உட்பகோண்ட பிறகு வோகனம் ஓட்டுைல்"
+    },
+    "description": {
+      "en": "- No person shall drive any omnibus or hiring car or any other vehicle intended for the carriage of persons for fee or reward on a highway after he has consumed alcohol or any drug.\n- Any person who drives a motor vehicle on a highway after he has consumed alcohol or any drug and thereby causes death or injury to any person, shall be guilty of an offence under this Act. ... - Fine Amount = Rs 25000  or to imprisonment of either description for a term not exceeding three months or to both such fine and imprisonment and to the suspension of his driving licence for a period not exceeding twelve months.",
+      "si": "- මත්පැන් හ ෝ ඕනෑම මත්රව්‍යයක් පානය කිරීහමන් පසු කිසිදු පුද්ගලහයකු ගාස්තුව්‍ක් හ ෝ ත්‍යාගයක් ස්ඳ ා පුද්ගලයින් ප්‍රව්‍ා නය කිරීම ස්ඳ ා අධිහේගී මාර්ගයක බස්ත රථයක් හ ෝ කුලියට ගත් හමෝටර් රථයක් හ ෝ හව්‍නත් වාහනයක් ධාව්‍නය හනාකළ යුුය.\n- මත්පැන් හ ෝ ඕනෑම මත්රව්‍යයක් පානය කිරීහමන් පසු අධිහේගී මාර්ගයක හමෝටර් රථයක් පදව්‍ා එමඟින් ඕනෑම පුද්ගලහයකුට මරණය හ ෝ තුවාල සිදු කරන ඕනෑම පුද්ගලහයකු හමම පනත්‍ යටහත් ව්‍රදකට ව්‍රදකරු හේ.\n- දඩ මුදල = රු. 25000 ක් හ ෝ මාස් ුනක් හනාඉක්මව්‍න කාලයක් ස්ඳ ා ඕනෑම විස්තත්‍රයක සිර දඬුව්‍මක් හ ෝ එව්‍ැනි දඩයක් ස්  සිර දඬුව්‍මක් ස්  මාස් හදාළ කට හනාව්‍ැඩි කාලයක් ස්ඳ ා ඔහුහේ රියදුරු බලපත්‍රය අත්ිටුවීම.",
+      "ta": "- மது அல்லது பபோதைப்பபோருள் உட்ப ோண்ட பிறகு,  ட்டணம் அல்லது பெகுமைிக் ோ  நபர் தை ஏற்றிச் பெல்ெைற் ோ  பநடுஞ்ெோதலயில் எந்ைபெோரு ெர்ெபஸ் அல்லது ெோடத   ோர் அல்லது பெறு எந்ை ெோ னத்தையும் ஓட்டக்கூடோது.\n- மது அல்லது பபோதைப்பபோருள் உட்ப ோண்ட பிறகு பநடுஞ்ெோதலயில் பமோட்டோர் ெோ னத்தை ஓட்டி, அைன் மூலம் எந்ைபெோரு நபருக்கும் மரணம் அல்லது  ோயம் ஏற்படுத்துபெர், இந்ைச் ெட்டத்ைின்  ீ ழ் ஒரு குற்றத்ைிற் ோ  க ுற்றெோைியோெோர்.\n- அபரோைத் பைோத  = ரூ. 25000 அல்லது மூன்று மோைங் ளுக்கு மி ோமல் ெிதறத்ைண்டதன அல்லது அத்ைத ய அபரோைம் மற்றும் ெிதறத்ைண்டதன மற்றும் பன்னிரண்டு மோைங் ளுக்கு மி ோமல் ஒரு  ோலத்ைிற்கு அெரது ஓட்டுநர் உரிமத்தை ரத்து பெய்ைல்."
+    },
+    "fine_amount": 25000
+  },
+  {
+    "rule_number": 35,
+    "title": {
+      "en": "Precautions In Crossing A Railway",
+      "si": "දුම්රිය මාර්ගයක් හරහා ගමන් කිරීමම්රදී පූර්වාරක්ෂාවන්",
+      "ta": "ஒரு ரயில் பாதைதயக் கடப்பைில் முன்னெச்சரிக்தககள்"
+    },
+    "description": {
+      "en": "- No person shall drive a motor vehicle on or across a railway crossing\n- a. when the railway gate is closed;\n-  b. disregarding the railway signal system; or\n-  c. without obeying directions of an authorized officer,  to likely endanger one’s own safety or that   of any other person.\n- A person who contravenes the provisions  shall be guilty of an offence and shall on conviction be liable to a fine not less than twenty five thousand rupees and not exceeding thirty thousand rupees and on a second conviction to a fine not less than thirty thousand rupees and not exceeding forty thousand rupees and the suspension of his driving licence for a period of not exceeding six months, and on a third or subsequent conviction to a fine not less than forty thousand rupees and not exceeding fifty thousand rupees and the suspension of his driving licence for a period not exceeding twelve months.",
+      "si": "- කිසිම පුද්ගලයෙකු දුම්රිෙ හරස් මාර්ගෙක් මත යහෝ ඒ හරහා යමෝටර් රථෙක් ධාවනෙ යනාකළ යුතුෙ\n- අ. දුම්රිෙ යේට්ටුව වසා ඇති විට;\n- ආ. දුම්රිෙ සංඥා පද්ධතිෙ යනාසලකා හැරීම; යහෝ\n- ඇ. බලෙලත් නිලධාියෙකුයේ උපයෙස් පිළිපැදීයමන් යතාරව, තමන්යේ යහෝ යවනත් ඕනෑම පුද්ගලයෙකුයේ ආරක්ෂාවට අනතුරක් කිරීමට ඉඩ ඇත.\n- විධිවිධාන උල්ලංඝනෙ කරන පුද්ගලයෙකු වරෙකට වරෙකරු වන අතර වරෙකරු වූ විට රුපිෙල් විසිපන්ෙහසකට යනාඅඩු සහ රුපිෙල් තිස්ෙහසකට යනාවැඩි ෙඩෙකට සහ යෙවන වරෙකරු වූ විට රුපිෙල් තිස්ෙහසකට යනාඅඩු සහ රුපිෙල් හතළිස්ෙහසකට යනාවැඩි ෙඩෙකට සහ මාස හෙකට යනාවැඩි කාලෙක් සඳහා ඔහුයේ ිෙදුරු බලපත්‍රෙ අත්ිුවීමට ෙටත් විෙ යුතුෙ. තුන්වන යහෝ පසුව වරෙකරු වූ විට රුපිෙල් හතළිස්ෙහසකට යනාඅඩු සහ රුපිෙල් පනස්ෙහසකට යනාවැඩි ෙඩෙකට සහ මාස යොළහකට යනාවැඩි කාලෙක් සඳහා ඔහුයේ ිෙදුරු බලපත්‍රෙ අත්ිුවීමට ෙටත් විෙ යුතුෙ.",
+      "ta": "- எந்தவ ொரு நபரும் ஒரு ரயில் பொதததயக் கடக்கும் இடத்தில் அல்லது அதன் குறுக்கக க ொட்டொர்  ொகனத்தத ஓட்டக்கூடொது\n- a. ரயில்க  ககட் மூடப்பட்டிருக்கும் கபொது;\n- b. ரயில்க  சிக்னல் அத ப்தபப் புறக்கணித்தல்; அல்லது\n- c. அங்கீகரிக்கப்பட்ட அதிகொரியின்  ழிகொட்டுதல்கதைக் கதடப்பிடிக்கொ ல், ஒரு ரின் வசொந்தப் பொதுகொப்பிற்ககொ அல்லது க று எந்த நபரின் பொதுகொப்பிற்ககொ ஆபத்தத  ிதை ிக்க  ொய்ப்புள்ைது.\n-  ிதிகதை  ீ றும் ஒரு ர் ஒரு குற்றத்திற்கொகக் குற்ற ொைியொகக் ... கருதப்படு ொர், க லும் அ ர் குற்ற ொைி எனக் கண்டறியப்பட்டொல் இருபத்ததந்தொயிரம் ரூபொய்க்குக் குதறயொத முதல் முப்பதொயிரம் ரூபொய்க்கு இகொ ல் அபரொதம்  ிதிக்கப்படு ொர், இரண்டொ து முதறயொகக் கண்டறியப்பட்டொல் முப்பதொயிரம் ரூபொய்க்குக் குதறயொத முதல் நொற்பதொயிரம் ரூபொய்க்கு  ிகொ ல் அபரொதம்  ிதிக்கப்படு ொர், க லும் ஆறு  ொதங்களுக்கு  ிகொ ல் அ ரது ஓட்டுநர் உரி த்தத இதடநிறுத்தவும், ம ூன்றொ து முதறயொகக் கண்டறியப்பட்டொல் நொற்பதொயிரம் ரூபொய்க்குக் க ுதறயொத முதல் ஐம்பதொயிரம் ரூபொய்க்கு  ிகொ ல் அபரொதம்  ிதிக்கவும், பன்னிரண்டு  ொதங்களுக்கு  ிகொ ல் அ ரது ஓட்டுநர் உரி த்தத இதடநிறுத்தவும் க ண்டும்."
+    },
+    "fine_amount": 25000
+  },
+  {
+    "rule_number": 36,
+    "title": {
+      "en": "Prohibit the use of mobile phone while driving",
+      "si": "රිය පැදවීමේදී ජංගම දුරකථන භාවිතය තහනේ කරන්න",
+      "ta": "வாகனம் ஓட்டும்பைாது ம ாபைல் பைான் ையன்ைடுத்துவபைத் ேபைமெய்யவும்"
+    },
+    "description": {
+      "en": "- No person shall use a telephone, mobile phone or any other movable communication equipment when driving a motor vehicle on a road.\n- On conviction after summary trial before a Magistrate, be liable to a fine not exceeding one hundred rupees, and on a second or subsequent conviction, to a fine not exceeding two hundred rupees.",
+      "si": "- මාර්ගයක මෝටර් රථයක් පදවන විට කිසිම පුද්ගලමයකු දුරකථනයක්, ජංගම දුරකථනයක් හෝ මවනත් චංචල සන්ිමේදන උපකරණයක් භාවිතා මනාකළ යුතුය.\n- මමහේසේරාත්වරමයකු ඉදිරිමේ සාරාංශ නඩු විභාගයකින් පසු වරදකරු වූ විට, රුපියල් සියයක් මනාඉක්මවන දඩයකට සහ මදවන මහෝ පසුව වරදකරු වූ විට, රුපියල් මදසීයක් මනාඉක්මවන දඩයකට යටත් විය යුතුය.",
+      "ta": "- சாலையில் ம ாட்டார் வாகனம் ஓட்டும்மோது யாரும் த ாலைமேசி, த ாலேல் மோன் அல்ைது மவறு எந்  அலசயும்  கவல் த ாடர்பு சா னங்கலையும் ேயன்ேடுத் க்கூடாது.\n- ஒரு  ாஜிஸ் ிமேட் முன் சுருக்க ான விசாேலைக்குப் ேிறகு  ண்டலன வி ிக்கப்ேட்டால், நூறு ரூோய்க்கு  ிகா ல் அேோ ம் வி ிக்கப்ேடும், இேண்டாவது அல்ைது அடுத் டுத்   ண்டலனக்கு இருநூறு ரூோய்க்கு இகா ல் அேோ ம் வி ிக்கப்ேடும்."
+    },
+    "fine_amount": 25000
+  }
+]

@@ -41,7 +41,14 @@ class _RulesListScreenState extends State<RulesListScreen> {
 
   void _toggleLanguage() {
     setState(() {
-      _selectedLanguage = _selectedLanguage == 'en' ? 'ta' : 'en';
+      // Cycle through the three languages
+      if (_selectedLanguage == 'en') {
+        _selectedLanguage = 'si';
+      } else if (_selectedLanguage == 'si') {
+        _selectedLanguage = 'ta';
+      } else {
+        _selectedLanguage = 'en';
+      }
     });
   }
 
@@ -51,7 +58,19 @@ class _RulesListScreenState extends State<RulesListScreen> {
       appBar: AppBar(
         title: const Text('Traffic Rules'),
         actions: [
-          _selectedLanguage == "en" ? const Text("தமிழ்") : const Text("EN"),
+          Padding(
+            padding: const EdgeInsets.only(right: 4.0),
+            child: Center(
+              child: Text(
+                _selectedLanguage == "en"
+                    ? "සිංහල"
+                    : _selectedLanguage == "si"
+                        ? "தமிழ்"
+                        : "ENGLISH",
+                style: const TextStyle(fontWeight: FontWeight.bold),
+              ),
+            ),
+          ),
           IconButton(
             icon: const Icon(Icons.swap_horiz),
             onPressed: _toggleLanguage,
@@ -84,7 +103,7 @@ class _RulesListScreenState extends State<RulesListScreen> {
                         );
                       },
                     ),
-                     Divider(),
+                    Divider(),
                   ],
                 );
               },
@@ -160,7 +179,6 @@ class RuleListTile extends StatelessWidget {
           ),
         ),
       ),
-     
     );
   }
 }
